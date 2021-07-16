@@ -1,0 +1,57 @@
+/* Custom CSS by F.MacNeill - last updated 16/7/21 */
+
+.navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
+    color: #0550a2;
+}
+
+.navbar .navbar-nav .nav-link.active {
+    color: #a6026f !important;
+}
+
+
+.portrait-title h3 {
+    color: #393939;
+}
+
+.article-style {
+    line-height: 2;
+}
+
+.article-metadata {
+    color: rgba(0, 0, 0, 0.67);
+}
+
+.highlighter-pen {
+    background: #fdbfe8;
+    padding: 5px;
+}
+
+blockquote {
+    color: #514f4f;
+}
+
+.card .card-text p {
+    color: rgb(87, 87, 87);
+}
+
+.author-card .card-subtitle {
+    color: rgb(77, 76, 76);
+}
+
+.projects-container {
+    padding: 0.75rem 1rem 1rem;
+}
+
+ul.skills-list {
+    column-count: 3; 
+    column-gap: 2%;
+    padding-bottom: 1%;
+}
+
+.docs-links {
+    margin-left: 15px;
+}
+
+.docs-sidebar .nav > li > a {
+    padding: 0.25rem 1.5rem 0.25rem 0;
+}

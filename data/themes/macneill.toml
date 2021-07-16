@@ -1,0 +1,21 @@
+# Theme metadata
+name = "Macneill"
+
+# Is theme light or dark?
+is_light = true
+
+# Primary
+primary = "#a6026f"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#34495e"
+menu_text_active = "#2962ff"
+menu_title = "#2b2b2b"
+
+# Home sections
+home_section_odd = "rgb(247, 253, 252)"
+home_section_even = "rgb(232, 238, 237)"
+
+# Backgrounds
+background = "#f7fdfc"
