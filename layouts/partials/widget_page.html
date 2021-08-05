@@ -1,6 +1,6 @@
 {{/* Notify JS that this is a widget page */}}
 <span class="js-widget-page d-none"></span>
-
+<main>
 {{/* Get widget page */}}
 {{ $page := "" }}
 {{ $headless_bundle := "" }}
@@ -131,12 +131,12 @@
       {{ if $st.Title }}
         {{ if eq $columns "1" }}
           <div class="section-heading col-12 mb-3 text-center">
-            {{ with $st.Title }}<h1 class="mb-0">{{ . | markdownify | emojify }}</h1>{{ end }}
+            {{ with $st.Title }}<h2 class="mb-0">{{ . | markdownify | emojify }}</h2>{{ end }}
             {{ with $st.Params.subtitle }}<p class="mt-1">{{ . | markdownify | emojify }}</p>{{ end }}
           </div>
         {{else}}
           <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
-            {{ with $st.Title }}<h1 class="mb-0">{{ . | markdownify | emojify }}</h1>{{ end }}
+            {{ with $st.Title }}<h2 class="mb-0">{{ . | markdownify | emojify }}</h2>{{ end }}
             {{ with $st.Params.subtitle }}<p class="mt-1">{{ . | markdownify | emojify }}</p>{{ end }}
           </div>
         {{end}}
@@ -152,3 +152,4 @@
     {{if $use_container}}</div>{{end}}
   </section>
 {{ end }}
+    </main>
