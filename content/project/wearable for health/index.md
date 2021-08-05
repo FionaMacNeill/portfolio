@@ -1,6 +1,6 @@
 ---
 title: Wearable for Health
-summary: Project investigating the feasibility of representing health information from a patient-owned smartwatch.
+summary: Exploring representation of health information from a patient-owned smartwatch.
 tags:
 - Research
 date: "2021-07-16T00:00:00Z"
