@@ -75,4 +75,4 @@ I am a <span class="highlighter-pen">habitual problem solver,</span> resolute de
 
 I enjoy unpicking complex problems and <span class="highlighter-pen">collaborating</span> with the humans who want to solve them.
 
-**Portfolio release version**: 1.0 | Changelog | Roadmap
+**Portfolio release version**: 1.0 | [Changelog](https://github.com/FionaMacNeill/portfolio/wiki/Changelog) | [Roadmap](https://github.com/FionaMacNeill/portfolio/wiki/Roadmap)
