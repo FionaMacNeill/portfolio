@@ -6,7 +6,7 @@ title: Fiona MacNeill
 superuser: true
 
 # Role/position/tagline
-role: User-centred Designer <br> and Educator
+role: Designer, Researcher, Educator
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a habitual problem solver, resolute defender of accessibility, and I want to make human-computer interaction better for everybody.
@@ -22,7 +22,7 @@ interests:
 education:
   courses:
   - course: D2 Fellowship of the Higher Education Academy (FHEA)
-    institution: Advance HE
+    institution: Advance HE (Teaching Certification)
     year: 2020
   - course: MSc User Experience Design
     institution: University of Brighton
@@ -35,21 +35,27 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
 - icon: twitter
   icon_pack: fab
+  description: Twitter
   link: https://twitter.com/fmacneill
+- icon: wordpress-simple
+  icon_pack: fab
+  description: Blog
+  link: 'http://www.fionamacneill.co.uk/blog'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
+  description: Google Scholar
   link: https://scholar.google.co.uk/citations?user=jCtZ0X8AAAAJ&hl
 - icon: github
   icon_pack: fab
+  description: GitHub
   link: https://github.com/FionaMacNeill
 - icon: linkedin
   icon_pack: fab
+  description: LinkedIn
   link: https://www.linkedin.com/in/fionamacneill
 
 # Link to a PDF of your resume/CV.
@@ -65,9 +71,8 @@ email: "fiona.macneill@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
 I am a <span class="highlighter-pen">habitual problem solver,</span> resolute defender of <span class="highlighter-pen">accessibility,</span> and want to make human-computer interaction better for everybody. I currently work in Higher Education, where I produce high-quality learning solutions.
 
 I enjoy unpicking complex problems and <span class="highlighter-pen">collaborating</span> with the humans who want to solve them.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV/Resumé{{< /staticref >}}.
+**Portfolio release version**: 1.0 | Changelog | Roadmap
