@@ -1,6 +1,33 @@
-/* Custom CSS by F.MacNeill - last updated 16/7/21 */
+/* Custom CSS by F.MacNeill - last updated 5/8/21 */
 
-.navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
+.navbar {
+    font-size: 1rem;
+}
+
+.nav-link::before {
+    display: block;
+    content: attr(data-target);
+    font-weight: bold;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
+}
+
+.nav-link:hover {
+    font-weight: bold;
+}
+
+/*Class added to define h1 style in header*/
+.navbar-header {
+    color: #000;
+    margin-top: -5px;
+}
+
+.navbar-brand:hover {
+    text-decoration: underline;
+}
+
+.navbar-light .navbar-light .navbar-brand:focus {
     color: #0550a2;
 }
 
@@ -8,10 +35,46 @@
     color: #a6026f !important;
 }
 
+.nav-link.active {
+     text-decoration: underline;
+}
+
+
+/* h2 style class - replacing the h1 class */
+
+.mb-0, .my-0 {
+    font-size: 1.75em;
+}
+
+/* h3 project title class for cards */
+
+.project-title {
+    font-weight: 700;
+    margin-top: 1rem;
+    font-size: 1rem;
+}
+
+/* Line 75 of about.html custom heading style for h2 */
+
+#about-heading {
+    font-size: 1.75em;
+}
+
+/* Controlling the About page */
 
 .portrait-title h3 {
     color: #393939;
 }
+
+#profile {
+    padding: 0px 10px;
+}
+
+#profile .network-icon {
+    margin-top: 20px;
+}
+
+/* Bio/Intro text styles */
 
 .article-style {
     line-height: 2;
@@ -21,13 +84,11 @@
     color: rgba(0, 0, 0, 0.67);
 }
 
+/* A funky pink background for key elements of text */
+
 .highlighter-pen {
     background: #fdbfe8;
     padding: 5px;
-}
-
-blockquote {
-    color: #514f4f;
 }
 
 .card .card-text p {
@@ -38,14 +99,22 @@ blockquote {
     color: rgb(77, 76, 76);
 }
 
-.projects-container {
-    padding: 0.75rem 1rem 1rem;
+/*Temporary addition while there are only three projects this allows them to be presented on one row - original value is included below */
+.project-item:last-of-type {
+    margin: 0 0 20px 0;
+    /*margin-bottom: 0;*/
 }
 
+/* Customising the 'Page' layout */
+
 ul.skills-list {
-    column-count: 3; 
-    column-gap: 2%;
+    column-count: 2; 
+    column-gap: 1%;
     padding-bottom: 1%;
+}
+
+blockquote {
+    color: #514f4f;
 }
 
 .docs-links {
