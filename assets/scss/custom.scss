@@ -1,35 +1,30 @@
 /* Custom CSS by F.MacNeill - last updated 5/8/21 */
 
-.navbar {
-    font-size: 1rem;
-}
-
-.nav-link::before {
-    display: block;
-    content: attr(data-target);
-    font-weight: bold;
-    height: 0;
-    overflow: hidden;
-    visibility: hidden;
-}
-
-.nav-link:hover {
-    font-weight: bold;
-}
-
 /*Class added to define h1 style in header*/
 .navbar-header {
     color: #000;
     margin-top: -5px;
 }
 
+.navbar {
+    font-size: 1rem;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+navbar-main .main-menu-item ul li .nav-link {
+    text-decoration: underline;
+}
+
 .navbar-brand:hover {
     text-decoration: underline;
 }
 
-.navbar-light .navbar-light .navbar-brand:focus {
+/*.navbar-light .navbar-light .navbar-brand:focus {
     color: #0550a2;
-}
+}*/
 
 .navbar .navbar-nav .nav-link.active {
     color: #a6026f !important;
@@ -39,11 +34,26 @@
      text-decoration: underline;
 }
 
+.nav-item.active {
+     text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 
 /* h2 style class - replacing the h1 class */
 
 .mb-0, .my-0 {
     font-size: 1.75em;
+}
+
+/* Projects container was cutting off projects, this is a basic fix which need to be tested on different screensizes */
+
+.projects-container {
+    height: 500px;
+    overflow: visible;
 }
 
 /* h3 project title class for cards */
