@@ -6,7 +6,7 @@ title: Fiona MacNeill
 superuser: true
 
 # Role/position/tagline
-role: Designer, Researcher, Educator
+role: Researcher, Designer, Educator
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a habitual problem solver, resolute defender of accessibility, and I want to make human-computer interaction better for everybody.
