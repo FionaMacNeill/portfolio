@@ -4,7 +4,7 @@ Using Hugo with a modified version of Academic Resumé Template by [**Wowchemy**
 
 <hr>
 
-## Orignal information for the version of the template below
+## Original information for the version of the template below
 
 <p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Template for Wowchemy Website Builder"></a></p>
 
