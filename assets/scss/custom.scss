@@ -52,7 +52,7 @@ a:hover {
 /* Projects container was cutting off projects, this is a basic fix which need to be tested on different screensizes */
 
 .projects-container {
-    height: 500px;
+    height: 600px;
     overflow: visible;
 }
 
@@ -101,6 +101,10 @@ a:hover {
     padding: 5px;
 }
 
+.home-section-bg {
+    overflow: visible;
+}
+
 .card .card-text p {
     color: rgb(87, 87, 87);
 }
@@ -133,4 +137,13 @@ blockquote {
 
 .docs-sidebar .nav > li > a {
     padding: 0.25rem 1.5rem 0.25rem 0;
+}
+
+figure figcaption {
+    text-align: left;
+}
+
+.article-style img, .article-style video {
+    margin-left: 0;
+    border: 1px solid black;
 }
