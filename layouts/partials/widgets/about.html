@@ -58,7 +58,7 @@
         {{ else if in (slice "http" "https") $scheme }}
           {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
         {{ end }}
-        <li>
+        <li title="{{ .icon }}">
           <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .description }}" title="{{ .description }}">
             <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}  big-icon"></i>
           </a>
