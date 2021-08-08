@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 {{- $language_code := site.LanguageCode | default "en-us" -}}
 <html lang="{{$language_code}}" {{ if in site.Data.i18n.rtl.rtl $language_code }}dir="rtl"{{end}}>
-
+<a id="skipnav" href="#main-content" role="link">Skip to page content</a>
 {{ partial "site_head" . }}
 
 {{ $show_navbar := site.Params.main_menu.enable | default true }}
