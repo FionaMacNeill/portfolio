@@ -14,7 +14,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: "https://www.slideshare.net/secret/NeYLnmZbjtYGDY"
-url_video: ""
+url_video: "https://youtu.be/2wM95lubobM"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -27,23 +27,25 @@ slides: ""
 ## Introduction
 This user research project explored the use of information from patient-owned smartwatches and smartphones to support patient care prior to surgery. It also assessed the informational needs of healthcare professionals, asking what data sources they would need from smartwatches and smartphones. Through the project research, I identified improvements which were later added to Apple WatchOS and Apple Health for iPhone. These included separating walking and running data, automatically detecting workouts, and providing relational data such as walking distance per day.
 
-[Progress of the blueprint goes here]
+![Iterative development of the Service Blueprint, several detailed timeline images are presented in a chronological list](blueprint_iterations.png "Overview of the iterative development of the Service Blueprint. The 
+printed version of the Service Blueprint is over two metres wide and is designed to be viewed as a long poster. It was created using LucidChart.")
 
 ## Background
 While completing an MSc in 2018 I used my dissertation project as an opportunity to explore a real-world area of user research; wearable devices in digital health. The project focused on healthcare professionals as a user group initially to ascertain if the information from these devices was fit for purpose prior to creation of apps and software. The research was ethically approved and took place in a clinical location.
+
+![Complex diagram showing the relationship between Apple devices, APIs and Electronic Health Records](applehealthapp-system.jpg "The Apple Health app ecosystem is reliant on infrastructure provided by a healthcare provide. Inspired by ‘system maps’ in Stickdorn *et al.* (2018), This is Service Design Doing, pp. 58-63. Created using Adobe Illustrator CC as part of a competitor analysis. </br></br> Dotted lines indicate two-way data exchange and read/write relationship.</br> P ~ Patient, and HCP ~ Healthcare Professional.")
+
 
 ## Objective
 To use the problem statement as the basis for an in-depth speculative user experience study to be written up as a dissertation and disseminated back to the UX and healthcare communities.
 
 ### Problem Statement
-Could information from patient-owned smartwatches and smartphones be used to support perioperative* care? 
+*Could information from patient-owned smartwatches and smartphones be used to support perioperative[^1] care?* 
 
-*Perioperative ~ *Encompasses the period prior to surgery, during surgery and through to the conclusion of recovery at home; as defined by the Royal College of Anaesthetists (RCoA, 2014, pp. 4-5).*
+[^1]: *Perioperative* ~ Encompasses the period prior to surgery, during surgery and through to the conclusion of recovery at home; as defined by the Royal College of Anaesthetists (RCoA, 2014, pp. 4-5).
 
 ## Roles, Methods, and Tools
 I was main researcher on this project. My work was overseen by two supervisors: one supervisor was from a UX/academic background (named principal investigator), and one from a medical practice background, whom I actively sought out to support the project.
-
-[YouTube video of process]
 
 ### Highlighted methods
 <ul class="skills-list">
@@ -55,11 +57,11 @@ I was main researcher on this project. My work was overseen by two supervisors: 
 </ul>
 
 #### Interviews
-In preparation for field work, I engaged in informational interviews with contacts whom had relevant healthcare experience. I co-created a service blueprint diagram outlining the patient journey. I also created a glossary, based on the qualitative data from interviews, to ensure that descriptive terms used in the recruitment materials, oral presentations and dissertation were contextually accurate and appropriate.
+In preparation for field work, I engaged in interviews with professional contacts whom had relevant healthcare experience. I co-created a Service Blueprint diagram outlining the patient journey. I also created a glossary, based on the qualitative data from interviews, to ensure that descriptive terms used in the recruitment materials, oral presentations and dissertation were contextually accurate and appropriate.
 
-Alongside this I formed a research collaboration with a healthcare professional working in a relevant role in practice who helped to facilitate contextual in-depth interviews with healthcare professionals working in a clinical setting. These interviews were used as the basis for discovering data/information requirements. Second interviews were completed with the same participants. A lightweight card sorting exercise was used in the first interview to determine which types of health information were pertinent and in order of importance.
+Alongside this I formed a research collaboration with a healthcare professional working in a relevant role in practice. My collaborator helped to facilitate contextual interviews with healthcare professionals working in a clinical setting. These interviews were used as the basis for discovering data/information requirements. Second interviews were completed with the same participants. A lightweight card sorting exercise was used in the first interview to determine which types of health information were pertinent and in order of importance.
 
-[Card sorting image, blue prints progress, blueprint and mental models for the in-depth interviews - include software that was used]
+![Interview kit on a table, includes a 'do not disturb sign', pens, post-its, and a card sorting exercise based on the core information types available from a smartwatch/smartphone, e.g., heart rate, exercise time, step count, etc.'](research-wearable-for-health.jpg "Lightweight interview kit. Designed to be taken to a room in a clinical practice location and quickly picked up if needsbe. Cards were laminated for easy cleaning between participant uses. Wax pencils and whiteboard pens were used for annotations/comments on the cards.")
 
 #### Survey of smartwatch owners
 I designed a survey, to gauge the attitudes of current smartwatch owners in relation to use of devices for health related purposes. The survey was distributed via online user communities, social media, and via targeted emails. The quantitative findings were presented in the dissertation and used to inform the list and prioritisation of requirements. The open-text responses were used as part of human-factors, looking at the likelihood of technology adoption and potential risks.
@@ -91,9 +93,11 @@ The clinical practice location where healthcare professionals had been involved 
 Francis Hodgson, curator 
 Excerpt from *Show and Tell - The Image in Research*, exhibition catalogue (2019, p.29).
 
+[Include final exhibition image here with the val closeup]
+
 ## Reflection
 An integral aspect of the project’s success was adopting recognised methods as a framework from the research. I used British Standards Institution’s (BSI) *BS EN ISO 9241-210:2010: Ergonomics of human- system interaction. human-centred design for interactive systems*. The field of user experience design research was not well understood in a clinical context so this helped to validate the methods being used, providing an overview.
 
-Had I continued this research I would have liked to validate the service blueprint and mental model with a greater number of healthcare professionals working in perioperative care, specifically physiotherapists. I would also have investigated the relevance of smartwatch data to Cardio pulmonary Exercise Testing (CPET/CPEX), which I found out about late in the research. 
+Had I continued this research I would have liked to validate the Service Blueprint and mental model with a greater number of healthcare professionals working in perioperative care, specifically physiotherapists. I would also have investigated the relevance of smartwatch data to Cardio pulmonary Exercise Testing (CPET/CPEX), which I found out about late in the research. 
 
 One of the key outstanding issues, as of writing this case study in 2021, is that Apple WatchOS does not allow the user or an app to set rest days/dates. This  means that any health-focused app could be undermined by that aspect of the WatchOS. There are however many potential benefits for a seasoned smartwatch user who could ignore or adjust activity reminders alongside a customised app for a surgical journey.
