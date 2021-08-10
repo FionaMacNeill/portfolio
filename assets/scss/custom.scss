@@ -1,4 +1,4 @@
-/* Custom CSS by F.MacNeill - last updated 5/8/21 */
+/* Custom CSS by F.MacNeill - last updated 10/8/21 */
 
 a#skipnav {
     position: absolute;
@@ -16,11 +16,11 @@ a#skipnav {
   left: 10px;
   height: 1.8em;
   width: 10em;
-  padding-left: 5px;
   margin-bottom: 5px;
   border-radius: 0 0 5px 5px;
   background: #a6026f;
   color: #fff;
+  text-align: center;
 }
 
 
@@ -171,4 +171,21 @@ figure figcaption {
 .article-style img, .article-style video {
     margin-left: 0;
     border: 1px solid black;
+}
+
+/* Accessible contrast colour for related area at the bottom of post */
+
+.post-nav-item .meta-nav {
+   color: rgb(54, 54, 54); 
+}
+
+/* Image Gallery styling */
+
+.gallery a[data-fancybox] img {
+    height: 150px;
+    margin: 0 0 0 5px;
+}
+
+.fancybox-caption {
+    text-align: left;
 }
