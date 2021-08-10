@@ -1,6 +1,6 @@
 ---
 title: Accessibility Service Design
-summary: This should be a full sentence of content, to ensure that everything matches up.
+summary: This should be a full sentence of content, to ensure that everything matches up
 tags:
 - Design, Service Design
 date: "2021-07-16T00:00:00Z"
