@@ -76,7 +76,7 @@ section_pager: false
 docs_section_pager: true
 sharing: false
 copyright_license:
-  enable: true
+  enable: false
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
