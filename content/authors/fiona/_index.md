@@ -27,7 +27,7 @@ education:
   - course: MSc User Experience Design
     institution: University of Brighton
     year: 2018
-  - course: BA(Hons) Fine Art
+  - course: BA (Hons) Fine Art
     institution: Kent Intitute of Art and Design (University of Kent)
     year: 2005
 
