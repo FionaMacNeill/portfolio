@@ -5,7 +5,7 @@
 
 title: F. MacNeill Portfolio # Website name
 baseurl: 'http://www.fionamacneill.co.uk/portfolio' # Website URL
-# copyright: '© 2021 Fiona MacNeill. Unless otherwise stated by individual licenses.' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Fiona MacNeill. Unless otherwise stated.' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
