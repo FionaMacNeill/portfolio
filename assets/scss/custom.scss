@@ -1,5 +1,16 @@
 /* Custom CSS by F.MacNeill - last updated 10/8/21 */
 
+/* Links and navigation styles */
+
+a {
+    color: #0e5097;
+}
+
+a:hover, a:focus {
+    color: #a6026f;
+    text-decoration: underline;
+}
+
 a#skipnav {
     position: absolute;
     top: -1000em;
@@ -8,7 +19,6 @@ a#skipnav {
     width: 1px;
     overflow: hidden;
 }
-
 
 #skipnav:focus, #skipnav:active {
   position: relative;
@@ -23,8 +33,13 @@ a#skipnav {
   text-align: center;
 }
 
-
 /*ID added to define h1 style in header*/
+
+.navbar .navbar-nav .nav-link.active {
+    font-weight: bold !important;
+    color: #a6026f !important;
+    text-decoration: underline;
+}
 
 #navbar-header {
     color: #000;
@@ -35,38 +50,7 @@ a#skipnav {
     font-size: 1rem;
 }
 
-.nav-link:hover {
-    text-decoration: underline;
-}
-
-navbar-main .main-menu-item ul li .nav-link {
-    text-decoration: underline;
-}
-
-.navbar-brand:hover {
-    text-decoration: underline;
-}
-
-
-/*.navbar-light .navbar-light .navbar-brand:focus {
-    color: #0550a2;
-}*/
-
-.navbar .navbar-nav .nav-link.active {
-    color: #a6026f !important;
-}
-
-.nav-link.active {
-     text-decoration: underline;
-}
-
-.nav-item.active {
-     text-decoration: underline;
-}
-
-a:hover {
-    text-decoration: underline;
-}
+/* Typography styles */
 
 /* h2 style class - replacing the h1 class */
 
@@ -74,11 +58,9 @@ a:hover {
     font-size: 1.75em;
 }
 
-/* Projects container was cutting off projects, this is a basic fix which need to be tested on different screensizes */
-
-.projects-container {
-    height: 600px;
-    overflow: visible;
+h3:hover, h3:focus, h3:active {
+    color: #a6026f;
+    text-decoration: underline;
 }
 
 /* h3 project title class for cards */
@@ -99,6 +81,7 @@ a:hover {
 
 .portrait-title h3 {
     color: #393939;
+    text-decoration: none;
 }
 
 #profile {
@@ -108,8 +91,6 @@ a:hover {
 #profile .network-icon {
     margin-top: 20px;
 }
-
-/* Bio/Intro text styles */
 
 .article-style {
     line-height: 2;
@@ -138,10 +119,20 @@ a:hover {
     color: rgb(77, 76, 76);
 }
 
-/*Temporary addition while there are only three projects this allows them to be presented on one row - original value is included below */
-.project-item:last-of-type {
-    margin: 0 0 20px 0;
-    /*margin-bottom: 0;*/
+/* Project filter only */
+
+.btn-primary {
+    color: #fff;
+    background-color: #a6026f;
+}
+    
+    
+.btn-toolbar .btn.btn-primary:hover, .btn-toolbar .btn.btn-primary:focus {
+    background-color: #d80391 !important;
+}
+
+.btn-toolbar .btn.btn-primary:active, .btn-toolbar .btn.btn-primary.active {
+    background-color: #74014d !important;
 }
 
 /* Customising the 'Page' layout */
@@ -154,14 +145,6 @@ ul.skills-list {
 
 blockquote {
     color: #514f4f;
-}
-
-.docs-links {
-    margin-left: 15px;
-}
-
-.docs-sidebar .nav > li > a {
-    padding: 0.25rem 1.5rem 0.25rem 0;
 }
 
 figure figcaption {
