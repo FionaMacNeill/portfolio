@@ -147,13 +147,29 @@ blockquote {
     color: #514f4f;
 }
 
+.quote blockquote {
+  margin: 1em;
+}
+
 figure figcaption {
     text-align: left;
+}
+
+.quotation {
+  margin: 0;
+  background: #eee;
+  padding: 1em;
+  border-radius: 1em;
 }
 
 .article-style img, .article-style video {
     margin-left: 0;
     border: 1px solid black;
+}
+
+.referencing-style {
+       padding-left: 1.5em;
+       text-indent:-1.5em;
 }
 
 /* Accessible contrast colour for related area at the bottom of post */
@@ -164,6 +180,10 @@ figure figcaption {
 
 /* Image Gallery styling */
 
+.gallery {
+    padding-bottom: 1rem;
+}
+
 .gallery a[data-fancybox] img {
     height: 150px;
     margin: 0 0 0 5px;
@@ -171,4 +191,20 @@ figure figcaption {
 
 .fancybox-caption {
     text-align: left;
+}
+
+/* Text added below gallery images to provide accessible descriptions */
+
+.gallery-custom-caption {
+    font-size: 0.76rem;
+}
+
+.gallery-custom-list {
+    font-size: 0.76rem;
+    list-style-type: '- ';
+}
+
+/* List items with adjusted margin for visual read */
+.gallery-custom-list-statement {
+    margin-left: -40px;
 }
