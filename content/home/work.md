@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Design
-    tag: Design
   - name: Research
     tag: Research
+  - name: Design
+    tag: Design
+  - name: Evaluation
+    tag: Evaluation
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -44,5 +46,5 @@ design:
   view: 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---
