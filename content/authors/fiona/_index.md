@@ -13,7 +13,7 @@ bio: I am a habitual problem solver, resolute defender of accessibility, and I w
 
 # Interests to show in About widget
 interests:
-- Learning Experience Design
+- User Experience Design
 - Accessibility
 - User Research
 - Service Design
