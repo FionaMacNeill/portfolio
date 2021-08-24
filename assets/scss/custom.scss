@@ -9,6 +9,7 @@ a {
 a:hover, a:focus {
     color: #a6026f;
     text-decoration: underline;
+    outline: 1.5px solid #0e5097;
 }
 
 a#skipnav {
@@ -58,11 +59,6 @@ a#skipnav {
     font-size: 1.75em;
 }
 
-h3:hover, h3:focus, h3:active {
-    color: #a6026f;
-    text-decoration: underline;
-}
-
 /* h3 project title class for cards */
 
 .project-title {
@@ -105,6 +101,7 @@ h3:hover, h3:focus, h3:active {
 .highlighter-pen {
     background: #fdbfe8;
     padding: 5px;
+    border-radius: 3px;
 }
 
 .home-section-bg {

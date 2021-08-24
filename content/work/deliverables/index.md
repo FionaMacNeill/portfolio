@@ -1,6 +1,6 @@
 ---
 title: "Deliverables"
-summary: "Link to a collection of work samples on Notion"
+summary: "Link to a collection of work samples temporarily stored on Notion"
 tags: 
 - Deliverables
 - Design
