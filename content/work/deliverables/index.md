@@ -2,8 +2,8 @@
 title: "Deliverables"
 summary: "Link to a collection of work samples on Notion"
 tags: 
+- Deliverables
 - Design
-- Research
 - Artefacts
 date: 2021-08-13T16:50:07+01:00
 type: "book"
