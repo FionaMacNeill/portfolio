@@ -40,7 +40,10 @@ url_video: ""
 ---
 
 ## Introduction
-This usability evaluation was part of an annual report and was repeated over two years. The evaluation looked at the experience of three groups of ePortfolio system users, across two universities’ Social Work programmes and their external student work placement providers. The anonymised data which was collected and analysed allowed for improvements to user journeys, processes, and system information architecture. The changes made led to an increased usability.
+This usability evaluation was part of an annual report and was repeated over two years. The evaluation looked at the experience of three groups of ePortfolio system users, across two universities’ Social Work programmes and their external student work placement providers. The anonymised data which was collected and analysed allowed for improvements to user journeys, processes, and system information architecture. The changes made led to an increased usability rating from the user groups based on the scale used.
+
+## Client
+University of Brighton as the owner of the ePortfolio platform and service.
 
 ## Background
 The ePortfolio system was developed in response to feedback from a regional council unit who provided student work placements and wanted to move from paper-based to digitised processes. Initially the regional council’s unit sought to setup their own ePortfolio system. As an alternative, I suggested that an economy of scale would be possible if a system that was compatible with the information systems of both local universities was setup. The value proposition was that this would help to harmonise documentation processes, providing set customer journeys per user group and therefore streamlined training across regional student placements. Furthermore, training provisions and staff resourcing could be pooled across both universities. A multi-institutional instance of Mahara (ePortfolio CMS) was setup. I built the internal information architecture and workflows based on requirements gathering with stakeholders from both universities and external placement organisations.

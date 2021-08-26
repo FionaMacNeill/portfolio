@@ -59,6 +59,9 @@ This UX research project explored the use of information from patient-owned smar
 
 ![Iterative development of the Service Blueprint diagram presented in a chronological list](blueprint_iterations.png "Overview of the iterative development of the Service Blueprint used with participants as a means to understand and discuss a patient's journey. The printed version of the Service Blueprint is over two metres wide and is designed to be viewed as a long poster. It was created using LucidChart.")
 
+## Client
+A healthcare trust, cannot be named due to restrictions related to HRA ethical approval.
+
 ## Background
 While completing an MSc in 2018 I used my dissertation project as an opportunity to explore a real-world area of UX research, wearable devices in digital health. The project focused on healthcare professionals as a user group to ascertain if the information from these devices was fit for purpose prior to creation of apps and software. The research was ethically approved and field work was completed in a clinical setting. The project took place over 6-months.
 ![System map for Apple Health, with devices and infrastructure. Caption includes description.](applehealthapp-system.jpg "The Apple Health app ecosystem is reliant on infrastructure provided by a healthcare provider. Inspired by ‘system maps’ in Stickdorn *et al.* (2018), This is Service Design Doing, pp. 58-63. Created using Adobe Illustrator CC as part of a competitor analysis. </br></br> Dotted lines indicate two-way data exchange and read/write relationship.</br> P ~ Patient, and HCPs ~ Healthcare Professionals.")
