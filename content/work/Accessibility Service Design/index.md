@@ -52,9 +52,12 @@ url_video: ""
 ---
 
 ## Introduction
-The project used Service Design and UX methods to underpin the introduction of a new service. This ensured that, project management, identification of stakeholders, rollout phase planning, user training, and referral routes were all underpinned by supporting research. Principally this allowed us to rollout features in an empathetic way, considering timing and adjusting language used in the interface.
+The project used Service Design and UX methods to underpin the introduction of a new accessibility service. This ensured that, project management, identification of stakeholders, rollout phase planning, user training, and referral routes were all underpinned by supporting research. Principally this allowed us to rollout features in an empathetic way, considering timing and adjusting language used in the interface.
 
 ![Ally is mapped with its values, providing alternative formats, diagnostic information, copyright flagging and referrals.](/portfolio/work/accessibility-service-design/custvalmap.png "Customer Value Chain map based on Kalbach (2016). Ally is shown with its values. Value for Students: providing alternative formats. Value for Staff: diagnostic information. Value for Libraries: copyright flagging and referrals.")
+
+## Clients
+Service users for the accessibility service being introduced. Also fellow support providers at the University of Brighton with touchpoints relating to the use of the accessibility service.
 
 ## Background
 As the liaison for accessibility on my team, I was given product ownership of Blackboard Ally. Blackboard Ally is a service which includes a file conversion tool and diagnostic tool to help find and resolve common accessibility issues. Ally focuses on content which is uploaded to a Content Management System (CMS), or in this case a Virtual Learning Environment (VLE), including: Word documents, PDFs, PowerPoint files, and images. It is not an accessibility overlay, but rather helps to surface content-related accessibility issues across a complex CMS.
