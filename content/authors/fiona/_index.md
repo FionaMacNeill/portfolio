@@ -6,10 +6,10 @@ title: Fiona MacNeill
 superuser: true
 
 # Role/position/tagline
-role: Researcher, Designer, Educator
+role: UX Researcher and LX Practitioner
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a habitual problem solver, resolute defender of accessibility, and I want to make human-computer interaction better for everybody.
+bio: Passionate about creating inclusive and accessible experiences, tools, and services for learning and doing.
 
 # Interests to show in About widget
 interests:
@@ -66,12 +66,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "fiona.macneill@gmail.com"
+email: "hello@fionamacneill.co.uk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a <span class="highlighter-pen">habitual problem solver,</span> resolute defender of <span class="highlighter-pen">accessibility,</span> and want to make human-computer interaction better for everybody. I currently work in Higher Education, where I produce high-quality learning solutions.
+I am a <span class="highlighter-pen">habitual problem solver</span> and a resolute defender of <span class="highlighter-pen">accessibility.</span> I want to make human-computer interaction better for everybody, whether those interactions are in the pursuit of learning (LX) or doing (UX).
 
 I enjoy unpicking complex problems and <span class="highlighter-pen">collaborating</span> with the humans who want to solve them.
 
