@@ -1,4 +1,4 @@
-/* Custom CSS by F.MacNeill - last updated 10/8/21 */
+/* Custom CSS by F.MacNeill - last updated 19/9/21 */
 
 /* Links and navigation styles */
 
@@ -36,12 +36,6 @@ a#skipnav {
 
 /*ID added to define h1 style in header*/
 
-.navbar .navbar-nav .nav-link.active {
-    font-weight: bold !important;
-    color: #a6026f !important;
-    text-decoration: underline;
-}
-
 #navbar-header {
     color: #000;
     margin-top: -5px;
@@ -49,6 +43,22 @@ a#skipnav {
 
 .navbar {
     font-size: 1rem;
+}
+
+.navbar-brand, .navbar-brand:hover {
+    padding: 5px 10px;
+    outline: none;
+}
+
+.navbar .navbar-nav .nav-link.active {
+    font-weight: normal !important;
+    color: #a6026f !important;
+    text-decoration: underline;
+}
+
+#navbar-main .main-menu-item ul li .nav-link {
+    color: #34495e;
+    margin: .2rem;
 }
 
 /* Typography styles */
@@ -133,6 +143,12 @@ a#skipnav {
     background-color: #74014d !important;
 }
 
+/* Blog widget */
+
+.see-all {
+    text-transform: capitalize;
+}
+
 /* Customising the 'Page' layout */
 
 ul.skills-list {
@@ -205,4 +221,10 @@ figure figcaption {
 /* List items with adjusted margin for visual read */
 .gallery-custom-list-statement {
     margin-left: -40px;
+}
+
+
+/* Footer target fix */
+.page-footer{
+    height: 120%;
 }
