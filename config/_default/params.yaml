@@ -29,7 +29,7 @@ contact_links:
   - icon: wordpress-simple
     icon_pack: fab
     name: 'Blog'
-    link: 'http://www.fionamacneill.co.uk/blog'
+    link: 'https://www.fionamacneill.co.uk'
 
 # Site header
 
@@ -39,7 +39,7 @@ main_menu:
   show_logo: true
   show_language: false
   show_day_night: true
-  show_search: false
+  show_search: true
   highlight_active_link: true
 
 # Localization
@@ -53,7 +53,7 @@ address_format: en-gb
 highlight: true
 highlight_languages:
   - r
-math: true
+math: false
 diagram: false
 privacy_pack: false
 edit_page:
