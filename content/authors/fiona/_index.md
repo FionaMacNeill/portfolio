@@ -6,7 +6,7 @@ title: Fiona MacNeill
 superuser: true
 
 # Role/position/tagline
-role: UX Researcher and LX Practitioner
+role: UX and Learning Experience (LX)
 
 # Short bio (displayed in user profile at end of posts)
 bio: Passionate about creating inclusive and accessible experiences, tools, and services for learning and doing.
@@ -21,9 +21,6 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: D2 Fellowship of the Higher Education Academy (FHEA)
-    institution: Advance HE (Teaching Certification)
-    year: 2020
   - course: MSc User Experience Design
     institution: University of Brighton
     year: 2018
@@ -41,10 +38,6 @@ social:
   icon_pack: fab
   description: Twitter
   link: https://twitter.com/fmacneill
-- icon: wordpress-simple
-  icon_pack: fab
-  description: Blog
-  link: 'http://www.fionamacneill.co.uk/blog'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   description: Google Scholar
