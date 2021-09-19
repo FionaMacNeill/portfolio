@@ -3,7 +3,6 @@ title: Deliverables
 summary: Link to a collection of work samples temporarily stored on Notions
 tags: 
 - Deliverables
-- Design
 - Artefacts
 date: 2021-08-13T16:50:07+01:00
 type: "book"
