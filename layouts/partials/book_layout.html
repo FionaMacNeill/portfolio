@@ -6,12 +6,12 @@
 
 <div class="container-fluid docs">
   <div class="row flex-xl-nowrap">
-    <div class="col-12 col-md-3 col-xl-2">
+    <div class="col-12 col-md-3 col-xl-1">
     </div>
 
     {{/* Show ToC by default. */}}
     {{ if ne .Params.toc false }}
-    <div class="d-none d-xl-block col-xl-2 docs-toc">
+    <div class="d-none d-xl-block col-xl-3 docs-toc">
       {{ partial "hooks/page_toc_start" . }}
 
       <ul class="nav toc-top">
