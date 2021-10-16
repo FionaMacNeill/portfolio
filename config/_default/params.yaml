@@ -128,3 +128,6 @@ cms:
 icon:
   pack:
     ai: true
+mainSections:
+  - post
+  - book
