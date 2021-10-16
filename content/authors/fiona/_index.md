@@ -63,13 +63,13 @@ email: "hello@fionamacneill.co.uk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
 ---
 I am a <span class="highlighter-pen">habitual problem solver</span> and a resolute defender of <span class="highlighter-pen">accessibility.</span> I want to make human-computer interaction better for everybody, whether those interactions are in the pursuit of learning (LX) or doing (UX).
 
 I enjoy unpicking complex problems and <span class="highlighter-pen">collaborating</span> with the humans who want to solve them.
 
   <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.-->
-  
 
 **Portfolio version**: </br> 1.0 | [Changelog](https://github.com/FionaMacNeill/portfolio/wiki/Changelog) | [Roadmap](https://github.com/FionaMacNeill/portfolio/wiki/Roadmap)
 *Actively making this site accessible though design, content, and code.*
