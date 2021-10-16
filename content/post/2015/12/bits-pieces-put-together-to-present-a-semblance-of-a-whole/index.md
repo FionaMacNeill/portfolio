@@ -1,5 +1,5 @@
 ---
-title: "&quot;Bits &amp; Pieces Put Together to Present a Semblance of a Whole&quot;"
+title: "Bits and Pieces Put Together to Present a Semblance of a Whole"
 date: "2015-12-06"
 coverImage: "V5-UML-diagram-IDM21-16nohb0.png"
 ---
