@@ -178,13 +178,26 @@ figure figcaption {
 
 .article-style img, .article-style video {
     margin-left: 0;
-    border: 1px solid black;
 }
 
 .referencing-style {
-       padding-left: 1.5em;
-       text-indent:-1.5em;
+    padding-left: 1.5em;
+    text-indent:-1.5em;
 }
+
+/* Blog post styles */
+
+.article-title a:hover {
+    color: #a6026f;
+    outline: 1.5px solid #0e5097;
+}
+
+a.summary-link, a:hover, a:focus{
+    text-decoration: none;
+    color: #313131;
+    outline: none;
+}
+
 
 /* Accessible contrast colour for related area at the bottom of post */
 
@@ -225,6 +238,6 @@ figure figcaption {
 
 
 /* Footer target fix */
-.page-footer{
+.page-footer {
     height: 120%;
 }
