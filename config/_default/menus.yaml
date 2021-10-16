@@ -10,11 +10,11 @@ main:
   - name: Work
     url: '#work'
     weight: 20
-  - name: Blog
-    url: '#posts'
-    weight: 30
   - name: Contact
     url: '#contact'
+    weight: 30
+  - name: Blog
+    url: '/post/'
     weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
