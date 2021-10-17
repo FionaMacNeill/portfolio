@@ -192,10 +192,14 @@ figure figcaption {
     outline: 1.5px solid #0e5097;
 }
 
-a.summary-link, a:hover, a:focus{
+a.summary-link, a:hover, a:focus {
     text-decoration: none;
     color: #313131;
     outline: none;
+}
+
+.web-img {
+    max-width: 400px;
 }
 
 
