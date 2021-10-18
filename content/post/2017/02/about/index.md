@@ -3,7 +3,7 @@ title: "About - Hone Design Project"
 date: "2017-02-03"
 categories: 
   - "reflection"
-  - "web-dev"
+  - "hone"
   - "idm22"
   - "MSc"
 tags: 
@@ -73,7 +73,7 @@ Although I have visual arts training I have not generally considered myself a de
 * **Learn more about specific prototyping packages.**<br>
 I have been trying out a few packages after having used LucidChart, Adobe Photoshop, Adobe Fireworks for prototyping during IMD21 (it was a while back). Specially I have looked at Marvel, InVision and Adobe Captivate. Adobe Captivate is most relevant to my day job, but it may not produce the best prototypes for this project. I will need to consider the merits of each and use this project as an excuse to learn.
 
-### References
+## References
 
 <p class="referencing-style">Asmus, G. (2017, February 9).
 <em>Thread group takes leap forward with availability of first certified software stacks from ARM, NXP, OpenThread and Silicon Labs; launches product certification program</em> [Press release].

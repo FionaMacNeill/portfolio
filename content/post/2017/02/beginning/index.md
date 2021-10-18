@@ -3,7 +3,7 @@ title: "Welcome to my new IDM22 Journal"
 date: "2017-02-04"
 categories: 
   - "reflection"
-  - "web-dev"
+  - "hone"
   - "idm22"
   - "MSc"
 tags: 
@@ -16,7 +16,7 @@ Greetings! I have decided that I would like to keep up my reflective writing act
 This is due to my recent experience on the web development module and also thinking back to when I took IDM21 (seems so long ago now!).
 In both cases it was an immensely valuable venture.
 
-### Purpose of this blog
+## Purpose of this blog
 
 I find that I needed a central place to gather my thoughts and referencing-styles throughout this process,
 so a blog seems like the perfect solution to pull together snippets as I go along. This is not
@@ -27,7 +27,7 @@ that it is time to expand my repertoire a bit. Essentially, this site will be my
 is essential for me to have a space which I can access from anywhere and also I do not actually own a physical
 whiteboard! Using one at university would not suffice as I need to leave my scribblings and musings on it!
 
-### Initial ideas
+## Initial ideas
 
 To recount a few initial ideas based on our first design session. We have been set the task of devising a logo for a company
 and I suspect that the company will be our fictional client in this scenario. 
@@ -43,7 +43,7 @@ Students have to take practical examinations for their clinical skills and an ap
  After all this type of app would essentially be an interactive form. There is a lot of value in a well-designed form, but not a lot of
  aesthetic value perhaps.
 
- ### Like OnStar for your smart home
+ ## Like OnStar for your smart home
 
  With aesthetics and functions in mind I decided to return to some of the ideas that I touched upon in my earlier research project for IDM13.
  During IDM13 I completed a short 10 credit research project looking at 5 consumer-level Internet of Things (IoT) systems, including two smart home systems; Nest and SmartThings (Google, 2017; Samsung, 2017).
@@ -68,12 +68,12 @@ Students have to take practical examinations for their clinical skills and an ap
  So essentially the app I would like to build, is for web and mobile, although mobile first and is a utility that allows users to map and monitor their in-home ecosystem.
  I also envision that the app will include a catalogue of devices currently on the market with their established design and configuration patterns so that each device's components could be mapped and there could even be
  a try-before-you-buy dimension to that. Additional devices could be added to the catalogue based on user requests and also possible sponsorship tie-ins from an advertising perspective.
- The idea of try-before-you-buy also emerged from my earlier research, you can view the design specifications which I devised after that project at my main blog: http://blogs.brighton.ac.uk/fjm15/2016/06/14/trust-in-iot-app-interfaces-redux/
+ The idea of try-before-you-buy also emerged from my earlier research, you can view the design specifications which [I devised after that project at my main blog](/post/2016/06/trust-in-iot-app-interfaces-redux/).
 
-![Image of sketchbook ideas page](images/01SketchbookP1.jpg)
+![Image of sketchbook ideas page](images/01-Sketchbook-p1.jpg)
 I used this page of sketchbook to explore different ideas related to objects in the home, Internet of Things and word associations.
 
-### References
+## References
 
 <p class="referencing-style">Google. (2017). Nest learning thermostat. Retrieved from the Nest website: https://nest.com/uk/</p>
 

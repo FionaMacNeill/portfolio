@@ -51,21 +51,22 @@ If any of the statements above have piqued your interest then keep reading.
 
 In true Blue Peter style, here is one I made earlier...
 
-[![Image of an Opportunity Landscape plot](images/JTBD_demo_image-1rd4pz7.png)](http://www.fionamacneill.co.uk/blog/wp-content/uploads/2018/03/JTBD_demo_image-1rd4pz7.png) The plot above is based on Webcredible's fantastic blog post on the topic of JTBD (Josephy, 2016).
+![Image of an Opportunity Landscape plot](images/JTBD_demo_image-1rd4pz7.png) The plot above is based on Webcredible's fantastic blog post on the topic of JTBD (Josephy, 2016).
 
 I should add that your plots can be much more extravagant than this, but essentially this is the basic type of plot that we are going to create to get started. The descriptive lines above are superfluous[^1]. They are useful to keep commented-out in your code though as they can be used to create quick descriptive visuals for stakeholders when needed. What we can read from the visualisation above is that I could have asked about a lot more _jobs_; it is a bit sparse, but 12 jobs is what this particular survey could accommodate. Also the majority of the jobs fall into the 'overserved' domain. This means satisfaction has been rated higher than importance and according to Ulwick (2016) this is prime territory for disruption. So although initially, when I looked at this visualisation I was like "oh blast", as I was looking for some untapped potential related to smart watch jobs and there is none. Actually it is more that customers are overserved for jobs that aren't perceived as that important and therefore the landscape is primed for some new competitor to come in and do the job in a cheaper and perhaps less good, but cheaper way, which though market adoption and iteration of 'said' cheap version may eventually lead to something better (Ulwick, 2016). Of course another dimension would be to ask questions about jobs that have not yet been considered for smart watch, but these were out of scope for this particular survey. In a way this plot perfectly sums up smart watches as they are still finding their footing, they are still superfluous to the smartphone which is almost ubiquitous. The point I am getting to here is that this plot asks questions of the data, that we might not normally ask if we were looking at each question in isolation. It is only when we bring these jobs together that we reach a new level of meaning.
 
 ### Collect the data
 
-You will need a survey question something like this... [![Screenshot of survey question](images/00_display-w6adj4.jpg)](http://www.fionamacneill.co.uk/blog/wp-content/uploads/2018/03/00_display-w6adj4.jpg) ...Or split it into two versions of the same question depending on the allowances of your survey tool. **"DANGER, WILL ROBINSON!!!!"**
+You will need a survey question something like this... ![Screenshot of survey question](images/00_display-w6adj4.jpg) ...Or split it into two versions of the same question depending on the allowances of your survey tool. **"DANGER, WILL ROBINSON!!!!"**
 
-[![Photo of a 1960s-style robot with oval head made of clear glass](images/8309044921_5b3e0021a1_m.jpg "DANGER WILL ROBINSON by BasilLeaf, on Flickr")](https://www.flickr.com/photos/garynlisa/8309044921/) A photo of a robot based on the character from the 1960s TV show, Lost in Space.
+![Photo of a 1960s-style robot with oval head made of clear glass](images/8309044921_5b3e0021a1_m.jpg "DANGER WILL ROBINSON by BasilLeaf, on Flickr") 
+_A photo of a robot based on the character from the 1960s TV show, Lost in Space._
 
 [DANGER WILL ROBINSON](https://www.flickr.com/photos/garynlisa/8309044921/)" ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)) by [BasilLeaf](https://www.flickr.com/people/garynlisa/)
 
 > Q: Hey didn't you say earlier that you need a 5 part Likert scale? But you only have four options in the 'satisfaction' scale above?
 
-The answer is I had to take a difficult decision about the experience of users on smartphones using my survey. One more column and it was over the precipice into the land of non-function. As I am only interested in 'Quite Important' and 'Very Important' and 'Satisfied' and 'Highly Satisfied' in this context I sacrificed the final column. So the results for the first question looked like this... [![Image of results](images/00_result-qp4oul.jpg)](http://www.fionamacneill.co.uk/blog/wp-content/uploads/2018/03/00_result-qp4oul.jpg) For the Satisfaction element, I created an [IFS Function](https://support.office.com/en-us/article/IFS-function-36329a26-37b2-467c-972b-4a39bd951d45) in my final spreadsheet, to make 4 equaled 5, 3 equaled 4, 2 equaled 3 and 1 equaled 2. This put everything on the same scale.
+The answer is I had to take a difficult decision about the experience of users on smartphones using my survey. One more column and it was over the precipice into the land of non-function. As I am only interested in 'Quite Important' and 'Very Important' and 'Satisfied' and 'Highly Satisfied' in this context I sacrificed the final column. So the results for the first question looked like this... ![Image of results](images/00_result-qp4oul.jpg)] For the Satisfaction element, I created an [IFS Function](https://support.office.com/en-us/article/IFS-function-36329a26-37b2-467c-972b-4a39bd951d45) in my final spreadsheet, to make 4 equaled 5, 3 equaled 4, 2 equaled 3 and 1 equaled 2. This put everything on the same scale.
 
 ### Download the data
 
@@ -73,7 +74,7 @@ Any good survey tool should allow you to download the results to CSV format (Com
 
 **Tip: Split up your Importance (IMP) and Satisfaction (SAT) onto separate tabs in your Excel spreadsheet**
 
-Believe me this will make your life SO much easier, when it comes to doing your calculations. [![Image of sort data slide](images/sort-the-data.001-1jk68l1.jpeg)](http://www.fionamacneill.co.uk/blog/wp-content/uploads/2018/03/sort-the-data.001-1jk68l1.jpeg)
+Believe me this will make your life SO much easier, when it comes to doing your calculations. ![Image of sort data slide](images/sort-the-data.001-1jk68l1.jpeg)
 
 ### Step 2: Do the Maths
 
@@ -83,39 +84,49 @@ Having separated your data, create a new tab in your spreadsheet and create the 
 - For row 4 we want to count how many of these entries had a rating of 4 (Quite Important) and 5 (Very Important). So we use a COUNTIF formula to look at values greater than 3. As we aren't dealing with decimals (yet), ">3" is accurate enough for this purpose.
 - For row 5 we need to find out what percentage of overall responses are _Quite_ and _Very Important_. So we divide row 4 by row 3 and then times by 10.
 
-<table style="border-color: #000000;" border="1px" cellspacing="0" cellpadding="0"><tbody><tr><td style="border-color: #000000;" valign="middle"><p align="center"><span style="font-family: Helvetica\ Neue; font-size: 12pt;"><b>1</b></span></p></td><td style="border-color: #000000;" valign="middle"><p align="center"><span style="font-family: Helvetica; font-size: 12pt;"><b>A</b></span></p></td><td style="border-color: #000000;" valign="middle"><p align="center"><span style="font-family: Helvetica; font-size: 12pt;"><b>B</b></span></p></td><td style="border-color: #000000;" valign="middle"></td></tr><tr><td style="border-color: #000000;" valign="middle"><p align="center"><span style="font-family: Helvetica\ Neue; font-size: 12pt;"><b>2</b></span></p></td><td style="border-color: #000000;" valign="middle"><span style="font-family: Helvetica; font-size: 12pt;"><b>Job</b></span></td><td style="border-color: #000000;" valign="middle"><span style="font-family: Helvetica; font-size: 12pt;"><i>I am a job</i></span></td><td style="border-color: #000000;" valign="middle"><span style="font-family: Helvetica; font-size: 12pt;"><i>In Excel speak</i></span></td></tr><tr><td style="border-color: #000000;" valign="middle"><p align="center"><span style="font-family: Helvetica\ Neue; font-size: 12pt;"><b>3</b></span></p></td><td style="border-color: #000000;" valign="middle"><span style="font-family: Helvetica; font-size: 12pt;"><b>total importance</b></span></td><td style="border-color: #000000;" valign="middle"><span style="font-family: Helvetica; font-size: 12pt;">How many entries are there in the column?</span></td><td style="border-color: #000000;" valign="middle"><span style="font-family: Helvetica; font-size: 12pt;">=COUNTA('IMP data’!A2:A<i>x</i>)</span></td></tr><tr><td style="border-color: #000000;" valign="middle"><p align="center"><span style="font-family: Helvetica\ Neue; font-size: 12pt;"><b>4</b></span></p></td><td style="border-color: #000000;" valign="middle"><span style="font-family: Helvetica; font-size: 12pt;"><b>imp &gt;3</b></span></td><td style="border-color: #000000;" valign="middle"><span style="font-family: Helvetica; font-size: 12pt;">How many entries are there in the column &gt;3?</span></td><td style="border-color: #000000;" valign="middle"><span style="font-family: Helvetica; font-size: 12pt;">=COUNTIF('IMP data'!A2:A<i>x</i>, "&gt;3")</span></td></tr><tr><td style="border-color: #000000;" valign="middle"><p align="center"><span style="font-family: Helvetica\ Neue; font-size: 12pt;"><b>5</b></span></p></td><td style="border-color: #000000;" valign="middle"><span style="font-family: Helvetica; font-size: 12pt;"><b>imp %</b></span></td><td style="border-color: #000000;" valign="middle"><span style="font-family: Helvetica; font-size: 12pt;">Importance/total importance<span class="Apple-converted-space">&nbsp; </span>X 10</span></td><td style="border-color: #000000;" valign="middle"><span style="font-family: Helvetica; font-size: 12pt;">=B4/B3*10</span></td></tr></tbody></table>
+| 1 | A                | B                                            | C                                 |
+|---|------------------|----------------------------------------------|-----------------------------------|
+| 2 | Job              | _I am a job_                                 | _In Excel speak_                  |
+| 3 | total importance | How many entries are there in the column?    | =COUNTA('IMP data’!A2:A x)        |
+| 4 | imp >3           | How many entries are there in the column >3? | =COUNTIF('IMP data'!A2:A x, ">3") |
+| 4 | imp %            | Importance/total importance X 10             | =B4/B3*10                         |
+
 
 **Create identical rows for satisfaction** (after in my case, adjusting it upwards first, due to having a satisfaction scale of 4 parts), so that you end up with this...
 
 ### The Opportunity Algorithm
 
-[![Image of the opportunity algorithm](images/presentation.001-28jxl4y.jpeg)](http://www.fionamacneill.co.uk/blog/wp-content/uploads/2018/03/presentation.001-28jxl4y.jpeg) So you will need a final row, row 10 to calculate the **Opportunity Score**. This is outlined above, but to explain the contents of the image. You take the outcome of importance, which is your percentage, so 9.6 in this case and take away the outcome of satisfaction, again a percentage. So that would leave you with -0.1, then add back on the outcome percentage which is is 9.6 and you end up with the total opportunity score of 9.5. outcome importance + (outcome importance - outcome satisfaction) = Opportunity Score 9.6 + (9.6 - 9.7) = 9.5 This is not the most exciting opportunity score, the most exciting ones are more than 10, or better yet more than 12. Oh and here is why I said that you should start with the formulae for one question-worth of data and to split Importance and Satisfaction onto separate sheets...Once you have created one column for Importance and Satisfaction data you can simply drag the formulae across all of your questions. 
+![Image of the opportunity algorithm](images/presentation.001-28jxl4y.jpeg) So you will need a final row, row 10 to calculate the **Opportunity Score**. This is outlined above, but to explain the contents of the image. You take the outcome of importance, which is your percentage, so 9.6 in this case and take away the outcome of satisfaction, again a percentage. So that would leave you with -0.1, then add back on the outcome percentage which is is 9.6 and you end up with the total opportunity score of 9.5. outcome importance + (outcome importance - outcome satisfaction) = Opportunity Score 9.6 + (9.6 - 9.7) = 9.5 This is not the most exciting opportunity score, the most exciting ones are more than 10, or better yet more than 12. Oh and here is why I said that you should start with the formulae for one question-worth of data and to split Importance and Satisfaction onto separate sheets...Once you have created one column for Importance and Satisfaction data you can simply drag the formulae across all of your questions. 
 
 <iframe src="https://www.youtube-nocookie.com/embed/C0V1I-bigQI?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ### Create R Food
 
-Having done all that you need to get your data into columns for RStudio, specifically we want four columns to start off with: Job; Importance; Satisfaction; Opportunity; and Score. So that it looks like this... [![Image showing the columns in the spreadsheet](images/becalculated.001-1mbcuiy.jpeg)](http://www.fionamacneill.co.uk/blog/wp-content/uploads/2018/03/becalculated.001-1mbcuiy.jpeg) Tip to get your data from rows to these columns use the transpose(array) function in Excel, here it is in action... 
+Having done all that you need to get your data into columns for RStudio, specifically we want four columns to start off with: Job; Importance; Satisfaction; Opportunity; and Score. So that it looks like this... ![Image showing the columns in the spreadsheet](images/becalculated.001-1mbcuiy.jpeg) Tip to get your data from rows to these columns use the transpose(array) function in Excel, here it is in action... 
 
 <iframe src="https://www.youtube-nocookie.com/embed/sCdz2fOSWAI?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ### Step 3: Get Sta(R)ted
 
 - **Install R from the R Archive:** Pick a mirror close-by (geographically speaking), e.g in UK - [University of Bristol](https://www.stats.bris.ac.uk/R/), [Imperial College London](https://cran.ma.imperial.ac.uk/)
+
 - **Mac tip:** make sure that you check the MD5 hash and SHA hash match. You can do this quickly and easily in terminal.
     
     <iframe src="https://www.youtube-nocookie.com/embed/HHdrIlHS2-4?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
     
-- **\[Mac only****\]** [XQuartz](https://www.xquartz.org/) Install - information about this is provided at R Archive above.
+- **\[Mac only\]:** [XQuartz](https://www.xquartz.org/) Install - information about this is provided at R Archive above.
+
 - **Install RStudio:** again do check the MD5. You can get the installer here - [https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download)
 
 ### Step 4: OoooH aRrrrr
 
 Launch RStudio and have a go!
 
-\[caption id="attachment\_909" align="alignnone" width="1164"\][![Image of the RStudio UI](images/RStudio-console-u9gkdl.jpg)](http://www.fionamacneill.co.uk/blog/wp-content/uploads/2018/03/RStudio-console-u9gkdl.jpg) Image of the RStudio UI\[/caption\]
+![Image of the RStudio UI](images/RStudio-console-u9gkdl.jpg) 
+_Image of the RStudio UI_
 
 So now that you have done all of the preparation you can actually start to create plots. Before you do anything else you need to load your library. In this case we are using ggplot2 which is part of [Hadley Wickham's (and others) Tidyverse](https://www.tidyverse.org/) - packages for R with standardised concepts and grammar. This is a good place to start as I have found that some of the R packages are quite idiosyncratic and it can take a bit of time to wrap your head around the internal logic, whereas the Tidyverse stuff all made a lot of sense. This could be because I originally learned to code in the JavaScript iteration of [Processing.](https://processing.org/) RStudio comes with a lot of packages already, so... 
+
 ```r
 library(gpplot2)
 ```
@@ -159,7 +170,7 @@ alpha=0.8,
 size=4) 
 ```
 
-This gives a starter plot like this... [![Image of starter plot](images/star_R-244yio2.png)](http://www.fionamacneill.co.uk/blog/wp-content/uploads/2018/03/star_R-244yio2.png) Just to prove that it is easy to get started I gave myself a little challenge... 
+This gives a starter plot like this... [![Image of starter plot](images/star_R-244yio2.png). Just to prove that it is easy to get started I gave myself a little challenge... 
 
 <iframe src="https://www.youtube-nocookie.com/embed/NJY0dQdV-7I?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -234,5 +245,5 @@ Ulwick, A. W. (2017) 'The path to growth: The opportunity algorithm', _The marke
 
 Access the code for this post on my [public GitHub Repository, 'OpportunityLandcape'](https://github.com/FionaMacNeill/OpportunityLandscape/blob/main/jtbd.R).
 
-[![Creative Commons Licence](images/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/) Code for JTBD data visualisation by [Fiona MacNeill](http://fionamacneill.co.uk/blog/2018/03/24/ux-camp-brighton-2018-jobs-to-be-done-r) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Based on a work at [http://www.marketingjournal.org/the-path-to-growth-the-opportunity-algorithm-anthony-ulwick/](http://www.marketingjournal.org/the-path-to-growth-the-opportunity-algorithm-anthony-ulwick/).
+![Creative Commons Licence](images/88x31.png)(http://creativecommons.org/licenses/by-sa/4.0/) Code for JTBD data visualisation by [Fiona MacNeill](http://fionamacneill.co.uk/blog/2018/03/24/ux-camp-brighton-2018-jobs-to-be-done-r) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Based on a work at [http://www.marketingjournal.org/the-path-to-growth-the-opportunity-algorithm-anthony-ulwick/](http://www.marketingjournal.org/the-path-to-growth-the-opportunity-algorithm-anthony-ulwick/).
 
