@@ -34,6 +34,10 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 
 social:
+- icon: envelope
+  icon_pack: fas
+  description: Email
+  link: mailto:hello@fionamacneill.co.uk
 - icon: twitter
   icon_pack: fab
   description: Twitter
