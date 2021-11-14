@@ -9,10 +9,11 @@ tags:
   - "digital-champions"
   - "student"
   - "ucisa"
-coverImage: "twelfieFisml-1srnjl9.jpg"
 ---
 
-This could possible be the most insane multitasking challenge that I have ever set for myself..... What I am doing today: Running a Leaderboard for a conference to monitor Tweets and award points for Twitter selfies or #twelfies as part of my role with [UCISA Digital Capabilities Group](http://www.ucisa.ac.uk/groups/dsdg/usg_committee.aspx "DSCG formerly User Skills Group"). Thus far our leaderboard (courtesy of Rise) is looking healthy, having cleared out the scores from the pre-conference tweets (pre 4:00am today that is) and re-started our polls. All of our photo scores are retained, but that still gives folks a time to catchup. We have been tweaking our scoring strategies this morning and then I look forward to attending the sessions this afternoon. A few things that I have learned about using a Leaderboard so far...
+![Fiona MacNeill wearing a hat with a badge on it reading UCISA Twelfie Official](images/twelfieFisml-1srnjl9.jpg)
+
+This could possible be the most insane multitasking challenge that I have ever set for myself..... What I am doing today: Running a Leaderboard for a conference to monitor Tweets and award points for Twitter selfies or #twelfies as part of my role with UCISA Digital Capabilities Group (formerly User Skills Group). Thus far our leaderboard (courtesy of Rise) is looking healthy, having cleared out the scores from the pre-conference tweets (pre 4:00am today that is) and re-started our polls. All of our photo scores are retained, but that still gives folks a time to catchup. We have been tweaking our scoring strategies this morning and then I look forward to attending the sessions this afternoon. A few things that I have learned about using a Leaderboard so far...
 
 1. Adding players via the Twitter tag poll is not the most efficient practice. So I have added people manually and we encouraged players to add themselves.
 2. Managing the scores via Google doc with the excellent Samantha Ahern is a very good plan. We are each taking a couple of metrics each (selfies with celebrities, etc.).
@@ -23,7 +24,7 @@ to be continued....
 
 * * *
 
-Event schedule: [http://www.ucisa.ac.uk/groups/dsdg/Events/2015/digcaps/new\_programme.aspx](http://www.ucisa.ac.uk/groups/dsdg/Events/2015/digcaps/new_programme.aspx "http://www.ucisa.ac.uk/groups/dsdg/Events/2015/digcaps/new_programme.aspx") 13:33
+13:33
 
 ## Sarah Davies from JISC - Chair and Introduction Spotlight on digital Capabilities event
 
@@ -37,10 +38,10 @@ Rebecca JS Nice - a student talking about her experience. Multi-disciplinary deg
 
 - The students were set the task of researching apps and use of mobile technologies in order support instructors who were provided with devices.
 - Enjoyed the responsibility of undertaking the research
-- The students have an active blog, here it is: [https://uowmobiledevicescheme.wordpress.com/](https://uowmobiledevicescheme.wordpress.com/ "https://uowmobiledevicescheme.wordpress.com/")
+- [The students have an active blog](https://uowmobiledevicescheme.wordpress.com/)
 - Biggest barrier? Using imagination and motivation, looking at lesson plans and considering ways of using devices
 - There were some attitudinal barriers amongst academic staff - worried that devices will be misused. Point is that is you bring the devices into the scope of the class then that is a way of monitoring them and ensuring that they are used to support learning.
-- Rebecca has built a website to build an online identity - taking what she is learning on the Mobile Device Scheme and using it support her studies. Here is her site: [http://www.rebeccajsnice.com/](http://www.rebeccajsnice.com/ "http://www.rebeccajsnice.com/")
+- [Rebecca has built a website](http://www.rebeccajsnice.com/) to build an online identity - taking what she is learning on the Mobile Device Scheme and using it support her studies.
 - She has used blogs to support instructors - used Tumbr as a presentation tool. Asked class and instructors to look her Tumbr during the presentation, linked Tumbr through to Pinterest for added value as part of the project
     - This was considered a massive risk - so although encouraged - there was concern. Worried about cognitive overload.
 - Student Barriers?
@@ -80,7 +81,7 @@ Rebecca JS Nice - a student talking about her experience. Multi-disciplinary deg
 
 ### How do you meet and manage student expectations - the idea of incoming students
 
-Dave White, University of the Arts, London Helen Beetham Resources for this talk: [http://digitalstudent.jiscinvolve.org/wp/](http://digitalstudent.jiscinvolve.org/wp/ "http://digitalstudent.jiscinvolve.org/wp/") The Digital Student - Research
+[Dave White, University of the Arts, London Helen Beetham Resources for this talk](http://digitalstudent.jiscinvolve.org/wp/)]
 
 - Stakeholder consultations
     - 7 challenge areas
@@ -91,9 +92,9 @@ Dave White, University of the Arts, London Helen Beetham Resources for this talk
 The Digital Student - Outcomes (resources you can use)
 
 - 50 institutional exemplars (based round the 7 challenge areas)
-- 'Digital Students are Different' posters: [http://digitalstudent.jiscinvolve.org/wp/outcomes/listen-to-students-posters/](http://digitalstudent.jiscinvolve.org/wp/outcomes/listen-to-students-posters/ "http://digitalstudent.jiscinvolve.org/wp/outcomes/listen-to-students-posters/")
-- 'Enhancing the Digital Experience for Students' cards: [http://digitalstudent.jiscinvolve.org/wp/outcomes/enhancing-the-digital-experience-for-students-cards/](http://digitalstudent.jiscinvolve.org/wp/outcomes/enhancing-the-digital-experience-for-students-cards/ "http://digitalstudent.jiscinvolve.org/wp/outcomes/enhancing-the-digital-experience-for-students-cards/")
-- 'The Student Digital Experience in 2020' [http://digitalstudent.jiscinvolve.org/wp/outcomes/the-student-digital-experience-in-2020/](http://digitalstudent.jiscinvolve.org/wp/outcomes/the-student-digital-experience-in-2020/ "http://digitalstudent.jiscinvolve.org/wp/outcomes/the-student-digital-experience-in-2020/") and much, much more...
+- ['Digital Students are Different' posters](http://digitalstudent.jiscinvolve.org/wp/outcomes/listen-to-students-posters/)
+- ['Enhancing the Digital Experience for Students' cards](http://digitalstudent.jiscinvolve.org/wp/outcomes/enhancing-the-digital-experience-for-students-cards/)
+- ['The Student Digital Experience in 2020'](http://digitalstudent.jiscinvolve.org/wp/outcomes/the-student-digital-experience-in-2020/)  and much, much more...
 
 ### The 7 Challenge Areas
 
@@ -102,9 +103,11 @@ The Digital Student - Outcomes (resources you can use)
 - Broadcast mode in Universities - do you know how much email you are actually sending to a student institutionally!
 - Mobile devices are becoming centred around notifications - students take ownership of the information that they receive form the university.
 
-<table style="height: 444px;" width="436"><tbody><tr><td><strong>Entitlement</strong></td><td><strong>VS.</strong></td><td><strong>Enhancement</strong></td></tr><tr><td><ul><li>Wifi (unblocked)</li><li>Hardware/software</li><li>BYOD</li><li>Lots of digital resources</li><li>Non mandatory support</li></ul></td><td></td><td><ul><li>Lecture capture</li><li>Organisational info</li><li>Use of tech in lectures</li><li>Social media (not clear from what they saw what the students actually wanted)</li><li>Learning &amp; teaching?</li><li>Mobile Notifications?</li><li>Apps?</li></ul></td></tr></tbody></table>
+| Entitlement                                                                                                   | VS. | Enhancement                                                                                                                                                                                                                |
+|---------------------------------------------------------------------------------------------------------------|-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| - Wifi (unblocked)<br>- Hardware/software<br>- BYOD<br>- Lots of digital resources<br>- Non mandatory support |     | - Lecture capture<br>- Organisational info<br>- Use of tech in lectures<br>- Social media (not clear from what they saw what the students actually wanted)<br>- Learning & teaching?<br>- Mobile Notifications?<br>- Apps? |
 
-JISC LOVE TRIANGLES!
+**Jisc Love Triangles!**
 
 > Don't fall into the digital natives trap. Just because you have wifi and the students have the latest iPad that doesn't mean that everyone is capable.
 
@@ -116,21 +119,23 @@ Why do we provide BYOD? Value added in Curriculum Delivery and Student Experienc
 
 ### 15:14
 
-## [Towards an integrated approach to developing digital capabilities in the curriculum: from theory to harsh reality](http://www.ucisa.ac.uk/en/groups/dsdg/Events/2015/digcaps/speakers.aspx)
+## Towards an integrated approach to developing digital capabilities in the curriculum: from theory to harsh reality
 
-### [](http://www.ucisa.ac.uk/en/groups/dsdg/Events/2015/digcaps/speakers.aspx)Joe Nicholls, Principal Consultant, Digital Enablement, Cardiff University
+### Joe Nicholls, Principal Consultant, Digital Enablement, Cardiff University
 
 All challenges are not distinct and separate - looking at a multimedia development course for support staff. They are using Xerte. Collective ownership, including management, of the digital capabilities agenda and priorities. Sustained movement and process - it is not a technology question it is about practices. Suggestion from the audience: QAA: there are two themes which you can choose to be rated on - employability and the other digital literacy - it might bring up some of the themes in a visible way
 
-## [Co-producing a digital festival](http://www.ucisa.ac.uk/en/groups/dsdg/Events/2015/digcaps/speakers.aspx)
+## Co-producing a digital festival
 
 ### Steve Rowett, eLearning Developments Manager, University College London
 
-Asked a student to assess the digital experience for students - she said that there was a lot of stuff going on but it wasn't joined up. Tells us of the fantastic Vox Box project, a physical tangible survey machine. People queue up to take surveys and are awarded a squishy ball for taking part. (FJM: THE TANGIBLE #UX INTERFACE - <3 IT - KEEPING THIS ONE FOR LATER just here): [http://www.voxboxproject.com/papers/TEI-voxbox.pdf](http://www.voxboxproject.com/papers/TEI-voxbox.pdf "http://www.voxboxproject.com/papers/TEI-voxbox.pdf") **digifest - uoldigifest.org** **volunteering for the festival was accredited by the university.**
+Asked a student to assess the digital experience for students - she said that there was a lot of stuff going on but it wasn't joined up. Tells us of the fantastic Vox Box project, a physical tangible survey machine. People queue up to take surveys and are awarded a squishy ball for taking part. (FJM: [the tangible #UX interface](http://www.voxboxproject.com/papers/TEI-voxbox.pdf) - <3 I'm - keeping this here for later).
+
+ **digifest - uoldigifest.org** **volunteering for the festival was accredited by the university.**
 
 - Video trailers for presentations on YouTube
 - Used EventBrite
-- They HAD A RED DOUBLE-DECKER BUS - had coders in the bus, film screenings, workshops SEE pics on this page: [http://ucldigifest.org/gallery/](http://ucldigifest.org/gallery/ "http://ucldigifest.org/gallery/")
+- They **had a red double-decker bus** - had coders in the bus, film screenings, workshops [check out the pics on their site](http://ucldigifest.org/gallery/)
 - They had 139 ideas from students for the digitalfestival
 - Laptop orchestra
 - Make your instrument
@@ -139,12 +144,12 @@ Asked a student to assess the digital experience for students - she said that th
 **What was the impact of all this?** They did get good feedback - "wow this is awesome, I just didn't know about it".
 
 - After thinking that they had tried every media outlet!
-- JISC wrote it up as a Case Study: [http://can.jiscinvolve.org/wp/files/2014/10/CAN-UCLDigiFestv6.pdf](http://can.jiscinvolve.org/wp/files/2014/10/CAN-UCLDigiFestv6.pdf "http://can.jiscinvolve.org/wp/files/2014/10/CAN-UCLDigiFestv6.pdf")
+- [JISC wrote it up as a Case Study](http://can.jiscinvolve.org/wp/files/2014/10/CAN-UCLDigiFestv6.pdf)
 - Changing the Learning Landscape Project recipients.
 
-YouTube channel for later viewing: [https://t.co/JxMfJBJaoa](https://www.youtube.com/user/UCLdigifest "https://www.youtube.com/user/UCLdigifest")
+[YouTube channel for later viewing](https://www.youtube.com/user/UCLdigifest)
 
-## [Innovation and digital literacies champions (iChamps). Student and staff partnership working to develop digital skills at the University of Southampton](http://www.ucisa.ac.uk/en/groups/dsdg/Events/2015/digcaps/speakers.aspx)
+## Innovation and digital literacies champions (iChamps). Student and staff partnership working to develop digital skills at the University of Southampton
 
 ### Tamsyn Smith, Professional Specialist in Learning Design and Anna Ruff, Learning Resources Administrator, University of Southampton
 
@@ -165,7 +170,7 @@ YouTube channel for later viewing: [https://t.co/JxMfJBJaoa](https://www.youtub
     - They run coffee clubs for iPads and other devices - quite like #appswaps
         - They provide coffee and cakes
         - iChamps and students are welcome at these events - culturally interesting that this is working well for them.
-        - Video about the iChamps: [https://youtu.be/tZetYHbIrnc](https://youtu.be/tZetYHbIrnc "https://youtu.be/tZetYHbIrnc")
+        - [Video about the iChamps](https://youtu.be/tZetYHbIrnc)
         - Authenticity in assessment. Nice example - draft a journal post and find out the citation style needed for the real journal.
 
  

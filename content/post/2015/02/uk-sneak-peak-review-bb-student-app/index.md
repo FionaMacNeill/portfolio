@@ -5,7 +5,6 @@ categories:
   - "apps"
   - "mobile"
   - "ui"
-coverImage: "secretimage-1o1spxc.png"
 ---
 
 A week back, my colleague [Craig Wakefield](http://blogs.brighton.ac.uk/cw115/2014/12/08/london-blackboard-user-group/ "Craig Wakefield Blog - related post!") sent news that Blackboard had released a new student-focused app for iOS and Android: _Bb Student_. At this point we do not know where _Bb Student_ will fit within the Blackboard app ecosystem that also includes: [_Blackboard Mobile Learn_](https://itunes.apple.com/gb/app/blackboard-mobile-learn/id376413870?mt=8 "Blackboard Mobile Learn"), [_Bb Polls_](https://itunes.apple.com/gb/app/polls-by-blackboard/id722551092?mt=8 "Bb Polls app") and then the staff-facing [_Bb Grader_](http://www.blackboard.com/bbgrader "Bb Grader at the Blackboard Site"). ![Bb Student - Stream screenshot from the US App Store](images/screen322x572.jpeg "Bb Student - Stream - linked screen shot from the US App Store")  The shiny new [_Bb Student_](https://itunes.apple.com/us/app/bb-student/id950424861?mt=8&uo=4 "Bb Student app on US App Store") app is currently only available in the US Apple App Store, however I just happen to have a US Apple App Store account (due to many happy years of residency in that part of the world). So here are my initial thoughts on the app with a few caveats:

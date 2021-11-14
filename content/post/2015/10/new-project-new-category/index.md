@@ -10,7 +10,6 @@ tags:
   - "interaction"
   - "msc"
   - "ux"
-coverImage: "mobiledevicespeed-1cqu7yt.png"
 ---
 
 ## Well almost... 

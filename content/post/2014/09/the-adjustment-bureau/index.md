@@ -11,7 +11,7 @@ tags:
   - "mobile-devices"
   - "mobile-technology"
 ---
-![adjustment book](images/asphalt_book-copy-23g1e4c-300x252.jpg "Fiona MacNeill - inspired by J.J.Corbett, Animation and Design Coordinator for The Adjustment Bureau (2011)")
+![adjustment book](images/asphalt_book-copy-23g1e4c.jpg "Fiona MacNeill - inspired by J.J.Corbett, Animation and Design Coordinator for The Adjustment Bureau (2011)")
 
 ## Introduction
 
@@ -72,67 +72,67 @@ The scores as an embedded Google Spreadsheet - a work in progress. NB: this list
 
 **Appendix I - Some particularly successful adjustment interfaces discovered as a result of this investigation** [**Bluefire Reader**](http://www.bluefirereader.com/ "bluefire reader")
 
-![Bluefire for iPad](images/1bluefireforipad-z3wr7m-300x225.jpg)
+![Bluefire for iPad](images/1bluefireforipad-z3wr7m.jpg)
 
  Bluefire reader - this free reader app features some very nice adjustment features. However there is only a small selection of free, public domain ebooks available. The app does allow you to connect a DropBox account so you could in theory use it to read ePub files with the reader functionality.
 
 [**Feedly**](https://feedly.com/index.html#welcome "Feedly")
 
-![Feedly for iPad](images/2feedlyforipad-2gd4j79-300x225.jpg) 
+![Feedly for iPad](images/2feedlyforipad-2gd4j79.jpg) 
 
 Feedly - is a free rss feed curator with built-in links to social media services. It is very helpful for the organising categories of news sources including blogs, news sites and trends. It does have some basic and helpful tools to customise the reading experience, such as invert text colour and font size.
 
 [**Goodreader 4**](https://itunes.apple.com/gb/app/goodreader-4/id777310222?mt=8 "Goodreader 4")
 
-![Goodreader for iPad](images/3goodreaderforiPad-nt944e-300x225.jpg)
+![Goodreader for iPad](images/3goodreaderforiPad-nt944e.jpg)
 
 Goodreader 4 - an excellent and very powerful reader app. This app includes extensive adjustment capabilities as well as file conversion, compression and on-document annotation. This is the only app to score 100% in the criteria ratings and £1.99 it is a good deal.
 
 [**Kindle for iPad**](https://itunes.apple.com/gb/app/kindle/id302584613?mt=8 "Kindle for iPad")
 
-![Kindle for iPad](images/4kindleforipad-1om7gh1-300x225.jpg) 
+![Kindle for iPad](images/4kindleforipad-1om7gh1.jpg) 
 
 Kindle for iPad - somewhat limited capabilities compared to some of the other reader apps, but does allow for a number of adjustments including: brightness, font size, font style, background colour, screen layout and line height.
 
 [**Index Card**](https://itunes.apple.com/gb/app/index-card/id389358786?mt=8 "Index Card")
 
-![Index Card for iPad](images/5indexcardforiPad-xwgozb-300x225.jpg) 
+![Index Card for iPad](images/5indexcardforiPad-xwgozb.jpg) 
 
 Index Card for iPad - although this app is limited in terms of altering the background colour when you are composing text it does allow for the display of your resulting Index Cards on tinted backgrounds. This app does allows for text size adjustments and is very helpful for planning out essays and verbal presentations.
 
 **[Kobo reader](http://www.kobo.com/ereaders "Kobo reader")**
 
-![Kobo for iPad](images/6koboforipad-1ttxj3x-300x225.jpg) 
+![Kobo for iPad](images/6koboforipad-1ttxj3x.jpg) 
 
 Kobo Reader for iPad - Kobo books need to be managed through an account on their website and can also be bought via WHSmiths. The app allows you to search and review free samples. This app has nice adjustment functions and also has a good notifications area which helps users to discover new features which are added to the app.
 
 **[Microsoft OneNote](https://itunes.apple.com/gb/app/microsoft-onenote-for-ipad/id478105721?mt=8 "Microsoft OneNote")**
 
-![MS OneNote for iPad](images/7MSOneNoteforiPad-vew2dp-300x33.jpeg) 
+![MS OneNote for iPad](images/7MSOneNoteforiPad-vew2dp.jpeg) 
 
 Microsoft OneNote for iPad - Unfortunately the Microsoft Office apps do not score very highly on this accessibility rating. The OneNote app by contrast has some nice function, including a number of 'Page Color' options under the 'View' tab.
 
 **[Notability](https://itunes.apple.com/gb/app/notability/id360593530?mt=8 "Notability")**
 
-![Notability for iPad](images/8notabilityforiPad-1o97vaj-300x225.jpg)
+![Notability for iPad](images/8notabilityforiPad-1o97vaj.jpg)
 
  Notability for iPad - this is a great app for reading, notetaking and annotation. One of its lesser known functions is the flexibility of page background colours and layouts when viewing and annotating PDF files. This app has excellent written and audio annotation options. It is comparable to iAnnotatePDF for iPad with the main difference that audio annotations can be placed contextually throughout the text in iAnnotate.
 
 [**OverDrive Media Console**](http://omc.overdrive.com/ "OverDrive Media Console")
 
-![OverDrive for iPad](images/9overdriveforiPad-1nud3b4-300x225.jpg) 
+![OverDrive for iPad](images/9overdriveforiPad-1nud3b4.jpg) 
 
 OverDrive Media Console - a reader app which will allow you to download eBooks from certain public libraries and retailers such as Waterstones. The extent of adjustment depends upon the individual eBook but this app has a lovely intuitive interface both as a local app and as a web-based reader app. The app also allows access to eBooks.
 
 **[Scribd](http://www.scribd.com/get-app "Scribd.").**
 
-![Scribd for iPad](images/10scribdforiPad-28x0gta-300x225.jpg) 
+![Scribd for iPad](images/10scribdforiPad-28x0gta.jpg) 
 
 Scribd. - this reader app requires a subscription (£5.99/month) for full access to books and they carry a comprehensive catalogue of both fiction and non-fiction as well as self-published and scholarly works. It is possible to access book samples for free through the app. The text and font related adjustment options are similar to the Kindle app.
 
 **[Mercury Web Browser](https://mercury-browser.com/ "mercury browser") (discussed during MELSIG presentation)**
 
-![Reader mode adjustments available when you turn a page to reader mode.](images/IMG_0015-1g959ba-300x225.jpg) 
+![Reader mode adjustments available when you turn a page to reader mode.](images/IMG_0015-1g959ba.jpg) 
 
 This screenshot shows the reader mode adjustments which are available when you turn a page to reader mode. You can save pages to PDF with these settings.
 

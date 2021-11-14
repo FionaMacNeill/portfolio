@@ -29,19 +29,19 @@ In my professional life I have become a devotee of [Evernote](https://evernote.c
 
 I was an early adopter and one of the first apps I fell in love with was [Penultimate](https://evernote.com/penultimate/ "Penultimate app site"). This app lets you draw or write with a stylus or your finger in virtual notebooks, later they added being able to add photos and voila it became a virtual sketchbook! I no longer wanted to carry a moleskin and an iPad and for a while Penultimate served me well for quick notetaking. Penultimate was acquired by Evernote in 2012 (Libin, 2012) and with that came the OCR capability of being able to 'search' your handwritten notes. However there were three functions which I have always felt are missing from Penultimate app which eventually caused me to abandon it. The first is the absence of a adequate notebook file management system, in apps like [Goodreader](http://www.goodiware.com "Goodreader site"), [iAnnotatePDF](http://www.branchfire.com/iannotate/#makepaperjealous "iAnnotatePDF site") and [Notability](http://www.gingerlabs.com "Notability site - Gingerlabs"), although more strictly for annotation of imported files, these apps allowed a far superior filing system. For example in iAnnotatePDF you can tag files with keywords, create folders and connect to Sharepoint (MyFiles) via WebDAV for backup purposes. In Penultimate, you just have an ever growing pile of notebooks.
 
-![File Management in iAnnotatePDF. The tagging function is shown.](images/filemanagementiAnnotatePDF-2dgm3on-1024x768.jpg "iAnnotatePDF, the tagging function is shown.")
+![File Management in iAnnotatePDF. The tagging function is shown.](images/filemanagementiAnnotatePDF-2dgm3on.jpg "iAnnotatePDF, the tagging function is shown.")
 
 ### Background colour
 
 The second issue is the background colour, from my [previous post](/post/2014/09/the-adjustment-bureau/ "The Adjustment Bureau: The Case for Adjustment in Mobile Apps") you'll know that background colour is very important to my efficiency when reading and writing. You do have the option of importing a photo to use as a background, so in theory that is a workaround and you can purchase notepaper types from Evernote Market, there are some good ones but these are more to do with line based layouts than page background colour. I have also found this [enterprising site](http://ipadpapers.com/tag.asp?tag=1 "iPadPapers site") which allows you to create your own templates for Penultimate as well as use templates which other's have created, in particular I was happy to find a [Cornell Notes format](http://lsc.cornell.edu/LSC_Resources/cornellsystem.pdf "Cornell PDF tutorial") template after the recent [MELSIG](http://melsig.shu.ac.uk/?page_id=645 "MELSIG event page") presentation about it. With any drawing/handwriting app, as a workaround, you could draw a template on the page, but then it becomes tricky when you need to cut and paste your written sections as the background gets confused with your written content.
 
-![Notes Plus shows the list of background colours avaialble for selection.](images/NotesPlus_Backgroundcolours-2k8wz3p-1024x768.jpg "Notes Plus - the background colours and template options available in Notes Plus.") 
+![Notes Plus shows the list of background colours avaialble for selection.](images/NotesPlus_Backgroundcolours-2k8wz3p.jpg "Notes Plus - the background colours and template options available in Notes Plus.") 
 
 ### On-screen wrist protector
 
 The third issue is the lack of an adjustable on-screen wrist protector. Penultimate allows you to define your wrist position but as you will see from the image below, it has trouble deciding which marks my stylus is making and which marks my wrist is making. This was the deal-breaker, I'd be mid-flow in writing and half of what I'd written would fail to show up as in Penultimate's view my wrist had been doing the writing!
 
-![penultimate app with handwriting and wrist created scribbles shown](images/penultimate_wrist-183un00-768x1024.jpg "Penultimate - the effect of wrist shown.")  Cornell Notes template shown above from [iPadPapers.com](http://ipadpapers.com/tag.asp?tag=1 "iPadPapers.com")
+![penultimate app with handwriting and wrist created scribbles shown](images/penultimate_wrist-183un00.jpg "Penultimate - the effect of wrist shown.")  Cornell Notes template shown above from [iPadPapers.com](http://ipadpapers.com/tag.asp?tag=1 "iPadPapers.com")
 
 So after four years of on and off trial and error, with periodic abandonment of the idea of handwriting on my iPad other than using very helpful PDF annotation apps for small comments (another post about these apps specifically in the future), I think that I have finally come up with my ideal list of functions which a handwriting app needs - and one app fits almost all of them - Notes Plus with Notability taking a close second place. 
 
@@ -51,7 +51,7 @@ So after four years of on and off trial and error, with periodic abandonment of 
 - **Background page colour** and template adjustment
 - Adjustable ****on-screen wristguard****
     
- ![iAnnotatePDF wristguard as a grey bar at the bottom of the screen](images/iAnnotatePDF_wristguard-15uevmj-150x150.jpg "iAnnotatePDF - this is a pretty typical wristguard which you can adjust downward as you fill the page. A simple thing, but important.") 
+ ![iAnnotatePDF wristguard as a grey bar at the bottom of the screen](images/iAnnotatePDF_wristguard-15uevmj.jpg "iAnnotatePDF - this is a pretty typical wristguard which you can adjust downward as you fill the page. A simple thing, but important.") 
 
 - **Good** **virtual ink flow**
 - **Ink customisation and style**
@@ -65,10 +65,10 @@ So after four years of on and off trial and error, with periodic abandonment of 
 ## Two Examples of Close-up mode
     
 **Notes Plus**
-![Notes Plus Ink customisation options](images/NotesPlus_closeup-28urc98-150x150.jpg "Also shows the excellent Ink customisation options.") 
+![Notes Plus Ink customisation options](images/NotesPlus_closeup-28urc98.jpg "Also shows the excellent Ink customisation options.") 
     
 **Notability**
-![Notability close-up writing mode](images/Notability_closeup-2aso0t3-150x150.jpg "Notability - close-up writing mode. Both Notes Plus and Notability have great navigation tools within the close-up pane.")
+![Notability close-up writing mode](images/Notability_closeup-2aso0t3.jpg "Notability - close-up writing mode. Both Notes Plus and Notability have great navigation tools within the close-up pane.")
     
 - **Audio memos** - for when my writing isn't fast enough!
 - **Presentation mode**: can this app be shown in a classroom, to demonstrate annotation or to draw quick diagrams?
@@ -82,9 +82,9 @@ So after four years of on and off trial and error, with periodic abandonment of 
 
 **Handwriting to Text Converter in Notes Plus**
 
-![Handwritten text is selected by drawing around it](images/NotesPlus_convert1-1kwmxrr-150x150.jpg "Select the text by drawing a circle around it. Select the conversion option.") 
+![Handwritten text is selected by drawing around it](images/NotesPlus_convert1-1kwmxrr.jpg "Select the text by drawing a circle around it. Select the conversion option.") 
 
-![The handwriting has been converted to type](images/NotesPlus_convert2-14x0ucy-150x150.jpg "It is accurate even with my horrendous handwriting.")
+![The handwriting has been converted to type](images/NotesPlus_convert2-14x0ucy.jpg "It is accurate even with my horrendous handwriting.")
 
 ## Analysis           
 
