@@ -66,3 +66,23 @@ related:
       weight: 100
     - name: categories
       weight: 70
+security:
+  enableInlineShortcodes: false
+  exec:
+    allow:
+    - ^dart-sass-embedded$
+    - ^go$
+    - ^npx$
+    - ^postcss$
+    osEnv:
+    - (?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$
+  funcs:
+    getenv:
+    - ^HUGO_
+    - ^WC_POST_CSS
+  http:
+    methods:
+    - (?i)GET|POST
+    urls:
+    - .*
+
