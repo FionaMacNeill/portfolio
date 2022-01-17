@@ -69,9 +69,9 @@ email: "hello@fionamacneill.co.uk"
 highlight_name: false
 
 ---
-I am a <span class="highlighter-pen">habitual problem solver</span> and a resolute defender of <span class="highlighter-pen">accessibility.</span> I want to make human-computer interaction better for everybody, whether those interactions are in the pursuit of learning (LX) or doing (UX).
+I am a habitual problem solver and a resolute defender of accessibility. I want to make human-computer interaction better for everybody, whether those interactions are in the pursuit of learning (LX) or doing (UX).
 
-I enjoy unpicking complex problems and <span class="highlighter-pen">collaborating</span> with the humans who want to solve them.
+I enjoy unpicking complex problems and collaborating with the humans who want to solve them.
 
   <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.-->
 
