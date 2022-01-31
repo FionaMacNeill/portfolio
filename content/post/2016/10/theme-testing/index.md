@@ -31,27 +31,31 @@ As part of the testing plan I used a several tools, listed at the bottom of thi
 #### Testing results and observations
 
 1. [afterlight](https://wordpress.org/themes/afterlight/) I decided not to install this theme. Although 'afterlight' had the accessibility tag, I found on inspection of its specifications that it is based on having a background image throughout each area of its architecture (landing page, pages, posts - all had to have a single background image). Upon previewing this with my content, using the WordPress theme preview tool, I found that this negatively impacted readability. As the purpose of this blog is to engage in reflection, it seems important not to distract from that at the design level.
+
 2. [chuchadon](https://wordpress.org/themes/search/chuchadon/) This theme has (or rather had) a lot of potential and is coded according to best practice (e.g. accessibility tagging) outlined in the WordPress Accessibility Handbook (WordPress.org, 2014).
-    
+   
     I realised later on looking at in-code documentation that this theme is based on a starter theme, Underscores (or “\_s”). A bare bones CSS starter theme (Underscores, 2016).
-    
+   
     Unfortunately after venturing as far as creating a child theme, I found issues in the some of the front-page template functionality. I also discovered that the links through to the theme documentation were broken and as a result I decided cease using the theme.
+
 3. [e-nigma](https://wordpress.org/themes/e-nigma-2015/) I do like the clean lines and simplicity of enigma, even in light of the negative points outlined in the slideshow below, it is certainly a worthy candidate. However, the dependence on the burger-style menu (the three lines) although often essential on mobile versions of a site, is less effective when viewed in a conventional web browser. I decided to seek out a theme that offered more versatility for delivery of the navigation menu/s.
+
 4. [kuorinka](https://wordpress.org/themes/kuorinka/) Initially I really liked the simplicity of this theme design and it is very responsive, however in terms of accessibility it has some problems. Namely, it does not support reader view in Firefox 49 or Safari 10 and also was not good in terms of respecting the heading levels for the screen reader. I did not complete the other tests as these two issues were deal breakers.
+
 5. [twentyfifteen](https://wordpress.org/themes/twentyfifteen/)
-    
+   
     The ultimate in clean and simple. Although as a seasoned WordPress user the annual core template always _looks_ like the annual core template, even with customisation. Twentyfifteen is quite book-like in its bi-fold layout and this doesn't strike the desired tone. As I tend to be quite verbose in my writing, I think that a theme with better except support is better. Having said that, the core templates can provide excellent bases for creation of child themes.
-    
+
 6. [twentysixteen](https://wordpress.org/themes/twentysixteen/) A fresh approach to a traditional blog layout with some very nice built-in features. Highlights include the support of the _read more_ tag for determining the length of post/entry excerpts shown on the front page. I also like the presentation of the author avatar, together with post tags on the left-hand side of each post. This theme has good customisation options and good widget support (the tools that you can place in the aside-style columns in the layout). A solid theme, not the most riveting to look at, but it ticks all of my accessibility boxes!
-    
-    ##### The final two contenders
-    
+   
+   ##### The final two contenders
+   
     I ran an IDI web accessibility check and used Firefox accessibility checker plugin (SEE [tools section](http://fionamacneill.co.uk/blog/2016/10/13/theme-testing/#tools) for links) to enable keyboard control on the two top candidates: twentysixteen and chuchadon. Twentysixteen had two flagged elements when I looked at the posts page specifically - one was that h1 header element was nested, so the order of headers was not ideal. Also there was a missing label element in the search field. These would both be very easy fixes.
-    
+   
     Chuchadon had the same flag on the header nesting for a posts page, so it is likely that this is an issue that would be picked up for a number of WordPress based blog template. To test this theory I tested my own blog, which is based on the Edublogs implementation of WordPress. Interestingly this was not an issue on my blog (e.g. post: [MacNeill, 2016](http://fionamacneill.co.uk/blog/2016/06/14/trust-in-iot-app-interfaces-redux/)) or another Edublog that I tried. I took a look at the .entry-title tag in the edublog and it was at h2 level rather than h1. This struck me as an issue with both these themes. So I created a child theme of Chuchadon to try out a tweak on line 353 of the CSS stylesheet. The tweak worked perfectly, but alas this was also when I realised that there were some other things that didn't work for me in chuchadon (front-page configuration and the documentation links).
-    
-    ##### The final verdict
-    
+   
+   ##### The final verdict
+   
     I have selected twentysixteen as my theme and have created a child theme to allow more space for customisation. \[caption id="attachment\_324" align="alignnone" width="840"\][![Screenshot of the Twenty Sixteen theme](images/twentysixteen_img-1024x768.png)](http://fionamacneill.co.uk/blog/2016/10/13/theme-testing/twentysixteen_img/) Image source: WordPress.org, [https://wordpress.org/themes/twentysixteen/](https://wordpress.org/themes/twentysixteen/)  
     (Worpress.org, 2016b)\[/caption\] **Just to clarify...** You may be asking, what is all this talk of child themes. Well in essence a child theme is augmented version of it's original parent. Essentially a child theme allows you to commit edits to the visual presentation as well as the functions of a WordPress site without editing the original theme's code. This is a smart tactic for customising a theme, particularly the core annual themes, as because WordPress as a CMS has frequent updates, any accompanying parent theme updates can be safely run without affecting the code in the child theme too much. The use of a child theme will also allow me to replace the parts of the CSS and theme functions that were identified in the IDI accessibility report.
 
@@ -78,13 +82,16 @@ I also setup a github repository for version control; to track my changes to the
 ##### **Guidelines used and referred to:**
 
 - Web Content Accessibility Guidelines (WCAG) (W3C, 2016a).
+
 - Techniques for WCAG 2.0 (W3C, 2016b).
+
 - BBC Future Media Standards and Guidelines (BBC, 2008).
-    
+
 - Mozilla Developer Network documentation (Mozilla, 2016).
+
 - WordPress Accessibility Handbook (WordPress.org, 2014):
-    
-    - Specifically I found this page very helpful - Questions to ask - [https://make.wordpress.org/accessibility/handbook/accessibility-overview/which-questions-should-you-ask/](https://make.wordpress.org/accessibility/handbook/accessibility-overview/which-questions-should-you-ask/) The 'questions' are derived from the four principles of WCAG and they are immensely helpful.
+  
+  - Specifically I found this page very helpful - Questions to ask - [https://make.wordpress.org/accessibility/handbook/accessibility-overview/which-questions-should-you-ask/](https://make.wordpress.org/accessibility/handbook/accessibility-overview/which-questions-should-you-ask/) The 'questions' are derived from the four principles of WCAG and they are immensely helpful.
 
 ##### **Software and developer tools used****:**
 

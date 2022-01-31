@@ -153,13 +153,13 @@ I have a Lynda.com course to wrap-up and I will post the details here when I fin
 
 ## References
 
-Cao, J. & Bank, C. (n.d.). _The guide to UX design & documentation process._ Retrieved from [https://www.uxpin.com/studio/ebooks/guide-to-ux-design-process-and-documentation/](https://www.uxpin.com/studio/ebooks/guide-to-ux-design-process-and-documentation/) 
+Cao, J. & Bank, C. (n.d.). _The guide to UX design & documentation process._ Retrieved from [https://www.uxpin.com/studio/ebooks/guide-to-ux-design-process-and-documentation/](https://www.uxpin.com/studio/ebooks/guide-to-ux-design-process-and-documentation/) 
 
 Gothelf, J. (2013). _Lean UX: Applying Lean Principles to Improve User Experience_ (1st ed.). United States: O’Reilly Media, Inc, USA. 
 
-Prichard, M. J. (2009). Identifying and assessing anxiety in pre-operative patients. _Nursing Standard 23(_51), 25-40. Retrieved from [https://rcni.com/nursing-standard/](https://rcni.com/nursing-standard/) 
+Prichard, M. J. (2009). Identifying and assessing anxiety in pre-operative patients. _Nursing Standard 23(_51), 25-40. Retrieved from [https://rcni.com/nursing-standard/](https://rcni.com/nursing-standard/) 
 
-What can help relieve anxiety before surgery? (2014, May 21). In _PubMed Health_. Retrieved October 15, 2016, from [https://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0072741/](https://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0072741/)
+What can help relieve anxiety before surgery? (2014, May 21). In _PubMed Health_. Retrieved October 15, 2016, from [https://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0072741/](https://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0072741/)
 
 [^1]: Business Model Canvas ([http://www.businessmodelcanvas.com](http://www.businessmodelcanvas.com)), licensed under Creative Commons Attribution-Share Alike 3.0 Unported licenses ([http://creativecommons.org/licenses/by-sa/3.0/](http://creativecommons.org/licenses/by-sa/3.0/)).
 
