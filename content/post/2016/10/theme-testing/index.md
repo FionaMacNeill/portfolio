@@ -13,7 +13,7 @@ tags:
   - "theme"
 ---
 
-This journal entry continues on from the section, "[First thoughts related to this journal site](http://fionamacneill.co.uk/blog/2016/10/07/hello-world-the-epitome-of-the-inaugural-blog-post/#first)" in my first post. In that section I outlined plans to test a number of WordPress themes that had been tagged with accessibility. This led me down a fascinating path of learning with one wrong turn along the way.
+This journal entry continues on from the section, "[First thoughts related to this journal site](https://fionamacneill.co.uk/post/2016/10/hello-world-the-epitome-of-the-inaugural-blog-post/)" in my first post. In that section I outlined plans to test a number of WordPress themes that had been tagged with accessibility. This led me down a fascinating path of learning with one wrong turn along the way.
 
 ### The testing process
 

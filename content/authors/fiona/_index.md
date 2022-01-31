@@ -6,7 +6,7 @@ title: Fiona MacNeill
 superuser: true
 
 # Role/position/tagline
-role: UX and Learning Experience (LX)
+role: Learning Experience (LX) and UX
 
 # Short bio (displayed in user profile at end of posts)
 bio: Passionate about creating inclusive and accessible experiences, tools, and services for learning and doing.

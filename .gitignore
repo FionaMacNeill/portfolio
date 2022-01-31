@@ -12,13 +12,11 @@ content/project/wearable for health/close-up-service-blueprint-annotation.jpeg
 content/project/wearable for health/featured.jpg
 assets/media/icons/.DS_Store
 .DS_Store
-.DS_Store
-assets/.DS_Store
-config/.DS_Store
-.DS_Store
 assets/.DS_Store
 config/.DS_Store
 content/.DS_Store
 content/authors/.DS_Store
 content/authors/fiona/.DS_Store
 content/home/.DS_Store
+data/.DS_Store
+*.jpg

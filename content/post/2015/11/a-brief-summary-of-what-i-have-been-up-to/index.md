@@ -11,21 +11,21 @@ tags:
 coverImage: "tussilago-farfara-301704_1280-1k7fuog.jpg"
 ---
 
+<img title="" src="file:///Users/fiona/Sites/portfolio/content/post/2015/11/a-brief-summary-of-what-i-have-been-up-to/images/tussilago-farfara-301704_1280-1k7fuog.jpg" alt="A blossoming yellow flower signifying renewal" width="437" data-align="left">
+
 Since my last blog post I have spent some time refining some of my design artifacts. This took a good chunk of time, but it was well worth doing.
 
 ## Here is a quick rundown...
 
-## Personae
+### Personae
 
 I now have personae for academic staff, a student and a support staff person for university-x. I also have also devised a persona for an external user.
 
-## +
+### Scenarios
 
-## Scenarios
+I used the Task Scenario template that the module leader provided to us as a starting point and developed eight scenarios for my users.
 
-I used the Task Scenario template that Richard provided to us as a starting point and developed eight scenarios for my users. These are outlined on [this page.](http://fionamacneill.co.uk/blog/task-scenarios-v1-1-31115/ "Task Scenarios v1.1 3/11/15") \=
-
-## Hierarchical task breakdown
+### Hierarchical task breakdown
 
 I put this into my last post, but here it is again for reference.
 

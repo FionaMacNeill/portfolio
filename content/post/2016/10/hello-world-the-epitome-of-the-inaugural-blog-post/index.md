@@ -16,15 +16,11 @@ tags:
   - "world"
 ---
 
-"Hello world!" a phrase that has been used to announce the existence of many a computer programme and blog post entry. Taking a few minutes to look into the phrase's history today, it's origins branch back to the early 1970s and the development of the programming language C at Bell Laboratories<fn>There are differing opinions on the exact origins, but it was a nice introduction to developer commentary and critique on Stack Overflow!</fn> (Herbert, 2016). This sentiment of harking back to computing history seems very appropriate as I embark on the IDM18 Web Development module and reflect on my own historical coding experience. Although I have web development experience I am largely self-trained. Like many, I have learned as I have gone along and to be able to take this time to create something, in a methodical way from the ground-up is an opportunity that I relish! Thinking back to my most recent ventures into creating code and applications from scratch, the creative coding that I did in Processing (Fry & Reas, 2016)<fn> Here are some Processing sketch examples of mine in case you are interested, they are bit dated now being from 2013/14 time.
-
-- Bacteria Sketch (captured as a video of the application): [http://two-artists.com/Fiona\_MacNeill/bacteria-sketch-2014/](http://two-artists.com/Fiona_MacNeill/bacteria-sketch-2014/)
-- Lauded Strings (sadly this only seems to work in Firefox now): [http://two-artists.com/Fiona\_MacNeill/75/](http://two-artists.com/Fiona_MacNeill/75/)
-- Dyslexic Irlen - reading simulator: [http://two-artists.com/Fiona\_MacNeill/dyslexic-irlen/](http://two-artists.com/Fiona_MacNeill/dyslexic-irlen/)
+"Hello world!" a phrase that has been used to announce the existence of many a computer programme and blog post entry. Taking a few minutes to look into the phrase's history today, it's origins branch back to the early 1970s and the development of the programming language C at Bell Laboratories[^1] (Herbert, 2016). This sentiment of harking back to computing history seems very appropriate as I embark on the IDM18 Web Development module and reflect on my own historical coding experience. Although I have web development experience I am largely self-trained. Like many, I have learned as I have gone along and to be able to take this time to create something, in a methodical way from the ground-up is an opportunity that I relish! Thinking back to my most recent ventures into creating code and applications from scratch, the creative coding that I did in Processing (Fry & Reas, 2016)<fn> [Here are some Processing sketch examples of mine in case you are interested, they are bit dated now being from 2013/14 time. *Note* these long ago had to be taken down due to Java security vulnerabilities - update in 2022]
 
 </fn> has been the closest I've come. It is time to up-the-ante and I want to create something that truly showcases my skills but also some of my current research interests. Ultimately this will manifest as a series of web pages, but I would like to push myself outside of my comfort zone. I will write more about my project idea here, once I have mapped it out a bit more.
 
-### How this journal will work
+## How this journal will work
 
 The posts in this journal will follow two reflective threads as I work through the module. The first thread is the development of this journal site, based on an independent install of the WordPress Content Management System or CMS (2016). I will outline my thinking behind decisions that I have take related to customisation and in particular accessibility and mobile responsiveness. These are the two key areas that I would like to learn more about during the module. The second thread is related to the creation of my portfolio website. This part of the coursework will be coded from scratch and needs to rich in features, structurally sound and accessible. More on this in a future post.
 
@@ -42,11 +38,13 @@ It is important to me that this journal's theme is as accessible as possible, ba
 
 In addition, I shall run some accessibility tests on the best candidate themes using the IDI Web Accessibility checker (AChecker, 2011). As well as referring to one of my favourite sources, the BBC's Future Media Standards and Guidelines to inform design decisions (BBC, 2008). The WordPress accessibility handbook is also an excellent resource (WordPress.org, 2014).
 
-### And finally...
+## And finally...
 
 I have chosen to install one plugin thus far. After drafting this post and realising that I have a persistent need to include asides in my reflections, I felt that having a footnote tool was essential. Yes, it is isn't strictly allowed in APA 6th Edition (Hume-Pratuch, 2014) but, this IS a journal rather than an essay so I think it is okay. I looked through the options and naturally chose the most frequently updated plugin with the most positive reviews. I was also looking at the plugin developers (Herndler & Cheret, 2016a) to make sure that they had a good track record and a well maintained changelog. The developers are also using a Subversion Repository for version control (Herndler & Cheret, 2016b). Based on experience I know that none of these things mean that a plugin will stand the test of time, with frequent and necessary WordPress security updates and such, however based on my assessment is seems like a robust option for the time-being.
 
-#### References
+## Footnotes
+
+## References
 
 AChecker. (2011). IDI web accessibility checker: Web accessibility checker. Retrieved October 7, 2016, from AChecker website, [http://achecker.ca/checker/index.php](http://achecker.ca/checker/index.php)
 
@@ -81,3 +79,5 @@ WordPress. (2016a). Blog tool, publishing platform, and CMS. Retrieved October 7
 WordPress.org. (2016b, December 6). Twenty Fifteen. Retrieved October 7, 2016, from WordPress.org website, [https://wordpress.org/themes/twentyfifteen/](https://wordpress.org/themes/twentyfifteen/)
 
 WordPress.org. (2016c, December 6). Twenty Sixteen. Retrieved October 7, 2016, from Wordpress.org website, [https://wordpress.org/themes/twentysixteen/](https://wordpress.org/themes/twentysixteen/)
+
+[^1]: There are differing opinions on the exact origins, but it was a nice introduction to developer commentary and critique on Stack Overflow!

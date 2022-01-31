@@ -13,6 +13,12 @@ tags:
   - "virtual-space"
   - "in-person"
 
+cascade:
+show_breadcrumb: true
+header:
+navbar:
+enable: false
+
 type: "book"
 ---
 
