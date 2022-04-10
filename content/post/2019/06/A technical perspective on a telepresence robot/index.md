@@ -112,7 +112,6 @@ The following quantitative research method were planned:
 ## Addendum
 [An article from the BBC (20/02/19)](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-47305835) about parents' privacy concerns related to use of an AV1 robot in a classroom setting.
 
-## Footnotes
 [^1]: we used [Powtoon](https://www.powtoon.com/home/?) to create the video.
 [^2]: The member of the eLearning team who does not have an existing service-based relationship with students.
 [^3]: quite a rural and hilly area].

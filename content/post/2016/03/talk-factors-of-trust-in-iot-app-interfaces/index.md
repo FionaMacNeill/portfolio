@@ -12,14 +12,10 @@ tags:
   - "systems"
   - "tropos"
   - "trust"
-coverImage: "Screen-Shot-2016-03-19-at-09.07.10-2a9vvs5.png"
 ---
 
-## Talk presented at UX Camp Brighton on 19/03/16
-
-[Link to the session on the UX Camp Brighton website](http://www.uxcampbrighton.org/sessions/)
-
-<img title="" src="file:///Users/fiona/Sites/portfolio/content/post/2016/03/talk-factors-of-trust-in-iot-app-interfaces/images/Screen-Shot-2016-03-19-at-09.07.10-2a9vvs5.png" alt="Continuous line drawing of Fiona's face, with a speech bubble reading - " width="463">
+## Talk presented at UX Camp Brighton on 19/03/16 
+[http://www.uxcampbrighton.org/sessions/](http://www.uxcampbrighton.org/sessions/)
 
 <iframe src="https://player.vimeo.com/video/160628235" width="800" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -29,7 +25,7 @@ coverImage: "Screen-Shot-2016-03-19-at-09.07.10-2a9vvs5.png"
 <script src="//platform.twitter.com/widgets.js" async charset="utf-8"></script>
 
 ## Session description:
-
+ 
 Does your app rely on OAuth to offer connection to other apps and services? Based on my research studying app-to-device relationships in Internet of Things systems (e.g. Fitbit, Jawbone UP, Nest, SmartThings, Glooko), I have uncovered some best practice recommendations when it comes to inspiring trust within your interface. 
 
 ## References

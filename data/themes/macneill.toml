@@ -5,17 +5,17 @@ name = "Macneill"
 is_light = true
 
 # Primary
-primary = "#a6026f"
+primary = "#1b688c"
 
 # Menu
-menu_primary = "#fff"
-menu_text = "#34495e"
-menu_text_active = "#a6026f"
-menu_title = "#2b2b2b"
+menu_primary = "#f5f5f4"
+menu_text = "#1b688c"
+menu_text_active = "#9D2535"
+menu_title = "#1b688c"
 
 # Home sections
-home_section_odd = "rgb(247, 253, 252)"
-home_section_even = "rgb(232, 238, 237)"
+home_section_odd = "#fff"
+home_section_even = "#eee"
 
 # Backgrounds
-background = "#f7fdfc"
+background = "#fff"

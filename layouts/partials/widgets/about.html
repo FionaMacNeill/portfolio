@@ -36,7 +36,7 @@
       </div>
         
         {{ if site.Params.avatar.gravatar }}
-      <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=270')" alt="Fiona MacNeill wearing a bright pink beanie hat on Brighton beach">
+      <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=270')" alt="Fiona MacNeill wearing a smart red shirt">
       {{ else if $avatar }}
       {{ $avatar_image := $avatar.Fill "270x270 Center" }}
       <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}"

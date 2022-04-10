@@ -149,8 +149,6 @@ I have a Lynda.com course to wrap-up and I will post the details here when I fin
 **Just putting this here for later reference - found on my travels** 
 ![10 Commandments of User Interface Design](images/ten-Commandments-UI-Design.png "10 Commandments of User Interface Design")](https://www.designmantic.com/blog/infographics/the-10-commandments-of-ui-design/) Courtesy of: [Designmantic.com](https://www.designmantic.com/)
 
-## Footnotes
-
 ## References
 
 Cao, J. & Bank, C. (n.d.). _The guide to UX design & documentation process._ Retrieved from [https://www.uxpin.com/studio/ebooks/guide-to-ux-design-process-and-documentation/](https://www.uxpin.com/studio/ebooks/guide-to-ux-design-process-and-documentation/) 

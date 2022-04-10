@@ -13,13 +13,6 @@ tags:
   - "virtual-space"
   - "in-person"
 
-cascade:
-show_breadcrumb: true
-header:
-navbar:
-enable: false
-
-type: "book"
 ---
 
 This post relates to [my personal challenge](/post/2021/03/vlog-introducing-a-personal-challenge/) of thinking about what makes an online space inclusive. I decided that UX Brighton's monthly _Show and Tell_ events are a good way to set mini deadlines for myself. Sometimes I use these events to present new tools or UX methods that I am using. This has now branched out to presenting the occasional book review. My review of _Magical Meetings_ was presented at the August 2021 _Show and Tell_, where I fed forward my learning in an abbreviated 15-min summary. The book also got me thinking broadly about my own experiences of working in education and the soft skills involved. So, I decided to give the information some breathing space prior to writing this longer form blog post. 
@@ -141,5 +134,4 @@ Or why a talented educator may be a boon to your design team.
 - Educators can read just about any room. Reading between the lines in terms of empathy. An educator can tell when something else is getting in the way of the task and can find a way to help.
 - A good educator can build a rapport with anyone, to find out what their motivations are and what they want to learn.
 
-## Footnotes
 [^1]: A really helpful page on using the [Nine Whys from the Liberating Structures site](https://www.liberatingstructures.com/3-nine-whys/).

@@ -40,8 +40,6 @@ In addition, I shall run some accessibility tests on the best candidate themes u
 
 I have chosen to install one plugin thus far. After drafting this post and realising that I have a persistent need to include asides in my reflections, I felt that having a footnote tool was essential. Yes, it is isn't strictly allowed in APA 6th Edition (Hume-Pratuch, 2014) but, this IS a journal rather than an essay so I think it is okay. I looked through the options and naturally chose the most frequently updated plugin with the most positive reviews. I was also looking at the plugin developers (Herndler & Cheret, 2016a) to make sure that they had a good track record and a well maintained changelog. The developers are also using a Subversion Repository for version control (Herndler & Cheret, 2016b). Based on experience I know that none of these things mean that a plugin will stand the test of time, with frequent and necessary WordPress security updates and such, however based on my assessment is seems like a robust option for the time-being.
 
-## Footnotes
-
 ## References
 
 AChecker. (2011). IDI web accessibility checker: Web accessibility checker. Retrieved October 7, 2016, from AChecker website, [http://achecker.ca/checker/index.php](http://achecker.ca/checker/index.php)

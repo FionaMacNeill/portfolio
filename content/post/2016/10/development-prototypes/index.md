@@ -56,8 +56,6 @@ I asked Marcus for some advice on the background colour changing widget (aka sty
 
 It struck me that I am adding a lot of short notes and written updates to GitHub. I felt like it would be good to maintain a digest of these changes and thoughts in this journal, alongside my longer form writing. Therefore I did a bit of searching and found [information about the atom feeds for "commit" changes](http://stackoverflow.com/questions/7353538/setting-up-an-github-commit-rss-feed])). In order to display this feed, I needed an aggregator. I selected the [CyberSyn plugin](https://wordpress.org/plugins/cybersyn/) as it has been updated recently and offers excellent functionality. However, as the GitHub commit posts are a bit code-like and lacking correct grammar, I don't want them on the front page of this journal but [in their own category](http://fionamacneill.co.uk/blog/category/dev-log/). So I set the CyberSyn plugin to set all feed posts as a new "development log" category and used the [Ultimate Category Excluder plugin](https://wordpress.org/plugins/ultimate-category-excluder/) to omit that category from the front page posts feed. I'm pretty happy with that!
 
-## Footnotes
-
 ## References
 
 Crockford, D. (2008)._JavaScript: The good parts._ Sebastopol, CA, USA: O'Reilly Media. Lawson, B., & Sharp, R. (2012). _Introducing HTML 5 second edition._ Berkley, CA, USA: New Riders.

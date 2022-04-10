@@ -13,10 +13,10 @@ bio: Passionate about creating inclusive and accessible experiences, tools, and 
 
 # Interests to show in About widget
 interests:
-- User Experience Design
+- Learning Experience
+- User Experience
 - Accessibility
 - User Research
-- Service Design
 
 # Education to show in About widget
 education:
