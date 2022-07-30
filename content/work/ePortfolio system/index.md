@@ -107,47 +107,56 @@ Based on time and resourcing, a light touch usability evaluation had to take pla
 ## Data
 Due to the nature of this evaluation it is not possible to share the data. A top-level overview is provided below as a comparison of 2018 to 2019. Fewer questions were used in the 2019 questionnaire which is why the 'possible total for usability score' is lower.
 
-<table>
-    <tr>
-        <th>Usability Questionnaire Measures</th>
-        <th>2018</th>
-        <th>2019</th>
-    </tr>
-    <tr>
-        <td>Overall Possible Total for Usability Score</td>
-        <td>42</td>
-        <td>35</td>
-    </tr>
-    <tr>
-        <td>Overall Usability Score</td>
-        <td>24</td>
-        <td>21</td>
-    </tr>
-    <tr>
-        <td>Overall Usability Score</td>
-        <td>24</td>
-        <td>21</td>
-    </tr>
-     <tr>
-        <td>Overall Usability as a Percentage</td>
-        <td>58%</td>
-        <td>60%</td>
-    </tr>
-    <tr>
-        <td>Total Number of Users Across All Groups</td>
-        <td>220</td>
-        <td>449</td>
-    </tr>
-       <tr>
-        <td>Total Number of Respondents</td>
-        <td>40</td>
-        <td>48</td>
-    </tr>
-    <tr>
-        <td>Response Rate</td>
-        <td>18</td>
-        <td>8.5</td>
-    </tr> 
+<table style="undefined;table-layout: fixed; width: 450px">
+<colgroup>
+<col style="width: 300px">
+<col style="width: 45px">
+<col style="width: 45px">
+</colgroup>
+<thead>
+  <tr>
+    <th>Usability Questionnaire Measures</th>
+    <th>2018</th>
+    <th>2019</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Overall Possible Total for Usability Score</td>
+    <td>42</td>
+    <td>35</td>
+  </tr>
+  <tr>
+    <td>Overall Usability Score</td>
+    <td>24</td>
+    <td>21</td>
+  </tr>
+  <tr>
+    <td>Overall Usability Score</td>
+    <td>24</td>
+    <td>21</td>
+  </tr>
+  <tr>
+    <td>Overall Usability as a Percentage</td>
+    <td>58%</td>
+    <td>60%</td>
+  </tr>
+  <tr>
+    <td>Total Number of Users Across All Groups</td>
+    <td>220</td>
+    <td>449</td>
+  </tr>
+  <tr>
+    <td>Total Number of Respondents</td>
+    <td>40</td>
+    <td>48</td>
+  </tr>
+  <tr>
+    <td>Response Rate</td>
+    <td>18</td>
+    <td>8.5</td>
+  </tr>
+</tbody>
 </table>
 
 ## References
