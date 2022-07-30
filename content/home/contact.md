@@ -1,5 +1,5 @@
 ---
-# An instance of the Contact widget.
+# An instance of the Contact widget source information: https://raw.githubusercontent.com/wowchemy/starter-hugo-academic/master/content/home/contact.md.
 widget: contact
 
 # This file represents a page section.
