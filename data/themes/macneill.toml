@@ -1,21 +1,19 @@
 # Theme metadata
-name = "Macneill"
+name = "macneill"
 
-# Is theme light or dark?
-is_light = true
+[light]
+    # Primary
+    primary = "#1b688c"
 
-# Primary
-primary = "#1b688c"
+    # Menu
+    menu_primary = "#f5f5f4"
+    menu_text = "#1b688c"
+    menu_text_active = "#9D2535"
+    menu_title = "#1b688c"
 
-# Menu
-menu_primary = "#f5f5f4"
-menu_text = "#1b688c"
-menu_text_active = "#9D2535"
-menu_title = "#1b688c"
+    # Home sections
+    home_section_odd = "#fff"
+    home_section_even = "#eee"
 
-# Home sections
-home_section_odd = "#fff"
-home_section_even = "#eee"
-
-# Backgrounds
-background = "#fff"
+    # Backgrounds
+    background = "#fff"
