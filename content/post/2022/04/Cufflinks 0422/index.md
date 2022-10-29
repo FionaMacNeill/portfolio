@@ -34,11 +34,13 @@ projects: []
 ---
 
 ## What are these *Cufflinks*?
+
 Cufflinks is the title for recurring blog posts where I share some of my favourite links. I plan to write these posts on a semi-regular basis. The inspiration came from the fantastic, Stéphanie Walter's *"Pixels of the Week"* which is an amazing resource. Do check out [Stéphanie's blog here](https://stephaniewalter.design/blog/). 
 
 Welcome to the first edition of *Cufflinks*!
 
-## Something I wrote 
+## Something I wrote
+
 I am delighted to have been invited to write a guest blog post for [SEDA's](https://www.seda.ac.uk/) [*thesedablog, Supporting and Leading Educational Change*](https://thesedablog.wordpress.com/). My post entitled, **_[User experience: When you need to know something, show something, and solve everyday problems](https://thesedablog.wordpress.com/2022/04/21/user-experience/)_** outlines my approach and some of the UX methods that I used in my former job as a Learning Technologist. The post is such a fantastic record as it really underlines why I made a career change. UX/LX research and design methods are now fundamental to my work as a Learning Experience Specialist and I build on this practice every single day. It is an amazing adventure and I am absolutely loving it. 
 
 ### Excerpt<br>
@@ -49,7 +51,7 @@ I am delighted to have been invited to write a guest blog post for [SEDA's](http
 
 ![flow of activities starting with video interviews, a written interview transcript, a chart showing click activities when using software. Then example statements for a job: when I am context, to help me motivation, so I can outcome.](images/transcript-to-tutorial.png "Flow of activities starting with video interviews, followed by a written interview transcript. and a chart showing click activities when using software. Then example statements for a job or action: when I am [context], to help me [motivation push/pull], so I can [outcome]. A functional test list comes from the job statement followed by video and written web tutorials.")
 
-## Things I have read 
+## Things I have read
 
 [**_The Power of Exercising Loud: On the impacts of immersive exposure to UX processes_** <br> by Hossein Raspberry writing for UX Collective on Medium](https://uxdesign.cc/the-power-of-exercising-loud-8ce27767b364) <br> This article is a nice piece of validation for my guest blogging venture above. The writer talks about the importance of making UX work visible. So, it is not only the work of doing the research, but it is the process of involving stakeholders and then sharing the results. All three aspects vital to 'the work'. Doing this work on research and design in the open, helps to uncover the synergy between projects and to break down historic silos. 
 
@@ -62,7 +64,6 @@ A key part of contributing to the design of an organisation from the inside is t
 
 <p style="margin-top: 0.75em; font-size:0.76rem; line-height: 1.4;">Screenshot of Edward Rice's post on LinkedIn. Post includes the text: <em>'Poor Accessibility Regulations and enforcement results in this type of dangerous design. It doesn’t take a rocket scientist to see what’s wrong with this, on so many levels. Another case where common sense is not commonly used!'</em></p>
 
-
 [**_Applying pace layers to career paths_** <br> by Richard Rutter (Clearleft) at Clagnut blog](https://clagnut.com/blog/2417/) <br>
 This brings me on to the ideas of pace layering and cultural rates of change and why patience and persistence are both virtues for anyone involved in design and transformation. This month's dConstruct newsletter from [Clearleft](https://clearleft.com/about) refreshed my memory on this one. Originally devised by Stewart Brand is his 1999 book, _The Clock of the Long Now: Time and Responsibility_, pace layers are a concept for thinking about how the rate of change differs at levels of civilisation. Fashion being the fastest to change and culture, followed by nature being the slowest to change. A chapter from Brand's book is [represented in this 2018 article, _Pace Layering: How Complex Systems Learn and Keep Learning_](https://jods.mitpress.mit.edu/pub/issue3-brand/release/2) at [Journal of Design and Science MIT Media Lab](https://jods.mitpress.mit.edu/). This concept has become well-worn in design spheres but still has merit as shown by Richard Rutter who uses it as a catalyst to consider the changing nature of UX-related professions.
 
@@ -70,7 +71,7 @@ This brings me on to the ideas of pace layering and cultural rates of change and
 
 [**_Dunning-Kruger Effect, or why some people don't get jokes_** <br> by Curiosity Research & Design for Bootcamp on Medium](https://bootcamp.uxdesign.cc/dunning-kruger-effect-or-why-some-people-dont-get-jokes-b8bcb1d12bb3) <br>
 The **Dunning-Kruger Effect** is fascinating when you consider what learners think they need to know in comparison to what they might actually need to know to achieve competency. 
- 
+
 > If you’re training people, you can expect the bottom percentile to not even be aware that they are wrong. Dunning Kruger say it is because metacognition is linked to skill level — the same attributes that make a person skilled in the domain are needed to evaluate if one is right or wrong. There are domains where this is true — like logical reasoning — but also where it is not true, and where the effect would not be as obvious. <br> - Curiosity Research & Design (2022) 
 
 [**_Learning Science Bootcamp > Bitesized_** <br> by Dr Philippa Hardman](https://plotapp.notion.site/plotapp/Learning-Science-Bootcamp-Bitesized-14af897533514af597bbb7d1148ca780) <br> 
@@ -86,24 +87,24 @@ I am taking this one on the nose, as I wrote this in an email the other day. I w
 A fascinating article providing insight into working artists from a range of disciplines. How do they stay motivated? How do they cope with public critique? This felt like the perfect application of my point above, where a key idea in the article was to not internalise negative or positive feedback, but to take what you can from it to improve and most importantly not let it eat up your insides.
 
 ### Note to self...
+
 These are tools or posts which I have, or will, find useful.
 
 * [**_UX Glossary_** <br> by Tina Golub for UX Collective on Medium](https://uxdesign.cc/ux-glossary-84f1213a7932) <br><br>
 * [**_A Quick Guide to UX Metrics_** <br> by Nick Babich in UX Planet on Medium](https://uxplanet.org/a-quick-guide-to-ux-metrics-d271a937149a)
 
-## Something I listened to 
+## Something I listened to
 
 [**_Great Minds on Learning Podcast with Donald Clark and John Helmer_** <br> 
 *Season 2, Episode 11 Informal Learning with Donald Clark*](https://greatmindsonlearning.libsyn.com/gmol-s2e11-informal-learning-with-donald-clark) 
 
-<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/22741883/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe> 
+<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/22741883/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 A great episode featuring some of my very favourite thinkers and theorists.
 
-## Something I made or fixed 
+## Something I made or fixed
 
 I am trying to fix things and to buy second-hand when I can. My Converse trainers started disintegrating before our eyes at UX Camp Brighton this year so it was a topic of conversation. Thankfully all fixed now, thanks to some hardy denim from my fabric scraps and some all-purpose glue.
 
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Just to follow-up on another key discussion point from <a href="https://twitter.com/UXCampBrighton?ref_src=twsrc%5Etfw">@UXCampBrighton</a> - I live by my word <a href="https://twitter.com/yandle?ref_src=twsrc%5Etfw">@yandle</a> <a href="https://twitter.com/UXLouX?ref_src=twsrc%5Etfw">@UXLouX</a> <a href="https://twitter.com/hashtag/Solved?src=hash&amp;ref_src=twsrc%5Etfw">#Solved</a> <a href="https://twitter.com/hashtag/FixDontBin?src=hash&amp;ref_src=twsrc%5Etfw">#FixDontBin</a> I ❤️ my Milky Way shoes <a href="https://twitter.com/Converse?ref_src=twsrc%5Etfw">@Converse</a> <a href="https://t.co/dWfoIzRmNB">pic.twitter.com/dWfoIzRmNB</a></p>&mdash; Fiona MacNeill (@fmacneill) <a href="https://twitter.com/fmacneill/status/1517845275662065664?ref_src=twsrc%5Etfw">April 23, 2022</a></blockquote>
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Just to follow-up on another key discussion point from <a href="https://twitter.com/UXCampBrighton?ref_src=twsrc%5Etfw">@UXCampBrighton</a> - I live by my word <a href="https://twitter.com/yandle?ref_src=twsrc%5Etfw">@yandle</a> <a href="https://twitter.com/UXLouX?ref_src=twsrc%5Etfw">@UXLouX</a> <a href="https://twitter.com/hashtag/Solved?src=hash&ref_src=twsrc%5Etfw">#Solved</a> <a href="https://twitter.com/hashtag/FixDontBin?src=hash&ref_src=twsrc%5Etfw">#FixDontBin</a> I ❤️ my Milky Way shoes <a href="https://twitter.com/Converse?ref_src=twsrc%5Etfw">@Converse</a> <a href="https://t.co/dWfoIzRmNB">pic.twitter.com/dWfoIzRmNB</a></p>— Fiona MacNeill (@fmacneill) <a href="https://twitter.com/fmacneill/status/1517845275662065664?ref_src=twsrc%5Etfw">April 23, 2022</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
