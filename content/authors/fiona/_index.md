@@ -37,7 +37,11 @@ social:
 - icon: envelope
   icon_pack: fas
   description: Email
-  link: mailto:hello@fionamacneill.co.uk
+  link: mailto:hello@fionamacneill.co.uk 
+- icon: mastodon
+  icon_pack: fab
+  name: '@fmacneill@toot.community'
+  link: 'https://toot.community/@fmacneill'
 - icon: twitter
   icon_pack: fab
   description: Twitter

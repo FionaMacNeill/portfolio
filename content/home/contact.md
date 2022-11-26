@@ -27,10 +27,14 @@ content:
   # Contact details (edit or remove options as required)
   email: hello@fionamacneill.co.uk
   contact_links:
+    - icon: mastodon
+      icon_pack: fab
+      name: '@fmacneill@toot.community'
+      link: 'https://toot.community/@fmacneill'
     - icon: twitter
       icon_pack: fab
       name: '@fmacneill'
-      link: 'https://twitter.com/fmacneill'
+      link: 'https://twitter.com/fmacneill' 
 
 design:
   columns: '2'
