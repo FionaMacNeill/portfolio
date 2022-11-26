@@ -69,7 +69,7 @@ Here is a whistle stop tour of my person highlights over Spring/Summer 2022.
 
 ### I was a guest on the UX Coach Podcast
 
-It was an honour and a pleasure to be invited to be a guest on [Andy Parker]([About Andy Parker, the UX Coach | The UX Coach](https://www.theuxcoach.com/about.html))'s UX Coach Podcast which aired in July. Visit the UX Coach website to [listen to the episode or read the transcript](https://www.theuxcoach.com/2022/07/24/make-an-action-plan.html).
+It was an honour and a pleasure to be invited to be a guest on [Andy Parker's](https://www.theuxcoach.com/about.html) UX Coach Podcast which aired in July. Visit the UX Coach website to [listen to the episode or read the transcript](https://www.theuxcoach.com/2022/07/24/make-an-action-plan.html).
 
 One of the highlights for me during the discussion was talking about the difference that coaching made for me in my career... 
 
@@ -105,7 +105,7 @@ Now this is the venture which has been taking up time when I might have been blo
 
 I am cultivating creative and curious encounters on a daily basis. This is a lifelong pursuit for me, but I have to admit that I had let it lapse a bit due to busyness.
 
-In a similar vein I can recommend the work of Stefaan van Hooyd, author of [The Workplace Curiosity Manifesto](https://www.amazon.co.uk/Workplace-Curiosity-Manifesto-Transformational-Organizations/dp/B0B2HQ7DHS) who I saw give a talk at the Learning Technologies Autumn Forum (13th and 14th October, ExCel Centre, London).
+In a similar vein I can recommend the work of Stefaan van Hooyd, author of [The Workplace Curiosity Manifesto](https://www.amazon.co.uk/Workplace-Curiosity-Manifesto-Transformational-Organizations/dp/B0B2HQ7DHS) who I saw give a talk at the Learning Technologies Autumn Forum (13th October, ExCel Centre, London).
 
 <div>
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Amazing talk with <a href="https://twitter.com/stefaanvanhooyd?ref_src=twsrc%5Etfw">@stefaanvanhooyd</a> on Curiosity <a href="https://twitter.com/hashtag/LTAF22?src=hash&ref_src=twsrc%5Etfw">#LTAF22</a> <a href="https://t.co/Cow6lSSqxs">pic.twitter.com/Cow6lSSqxs</a></p>— Fiona MacNeill (@fmacneill) <a href="https://twitter.com/fmacneill/status/1580542508660293632?ref_src=twsrc%5Etfw">October 13, 2022</a></blockquote>
