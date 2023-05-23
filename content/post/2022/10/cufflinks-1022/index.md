@@ -128,7 +128,7 @@ In a similar vein I can recommend the work of Stefaan van Hooyd, author of [The 
 
 - Another unexpected delight was getting to go up The Shard last week and gaining a  whole new appreciation of London. Seeing the space where the [Roman settlement of Londinium](https://www.cityoflondon.gov.uk/things-to-do/walks-and-itineraries/itineraries/roman-london) was founded from the vantage point of their gods and wondering what life must have been like 2,000 years ago. 
 
-<img title="" src="images/ViewFromTheShard.jpg" alt="Alt text" data-align="inline" width="504">
+<img title="" src="images/ViewFromTheShard.jpg" alt="A selfie high above London in the Shard skyscraper" data-align="inline" width="504">
 
 #### Moving my body
 

@@ -6,17 +6,17 @@ title: Fiona MacNeill
 superuser: true
 
 # Role/position/tagline
-role: Learning Experience (LX) and UX
+role: Learning Consultant & UX Designer
 
 # Short bio (displayed in user profile at end of posts)
 bio: Passionate about creating inclusive and accessible experiences, tools, and services for learning and doing.
 
 # Interests to show in About widget
 interests:
-- Learning Experience
-- User Experience
-- Accessibility
 - User Research
+- Product & User Experience Design
+- Accessibility
+- Technology Integration
 
 # Education to show in About widget
 education:
@@ -46,10 +46,10 @@ social:
   icon_pack: fab
   description: Twitter
   link: https://twitter.com/fmacneill
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  description: Google Scholar
-  link: https://scholar.google.co.uk/citations?user=jCtZ0X8AAAAJ&hl
+#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #icon_pack: fas
+  #description: Google Scholar
+  #link: https://scholar.google.co.uk/citations?user=jCtZ0X8AAAAJ&hl
 - icon: github
   icon_pack: fab
   description: GitHub
@@ -73,12 +73,12 @@ email: "hello@fionamacneill.co.uk"
 highlight_name: false
 
 ---
-I am a habitual problem solver and a resolute defender of accessibility. I want to make human-computer interaction better for everybody, whether those interactions are in the pursuit of learning (LX) or doing (UX).
+I am a habitual problem solver and a resolute defender of accessibility. I want to make human-computer interaction better for everybody, whether those interactions are in the pursuit of learning or doing.
 
 I enjoy unpicking complex problems and collaborating with the people who want to solve them.
 
   <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.-->
 
-**Portfolio version**: </br> 1.0 | [Changelog](https://github.com/FionaMacNeill/portfolio/wiki/Changelog) | [Roadmap](https://github.com/FionaMacNeill/portfolio/wiki/Roadmap)
+<!--**Portfolio version**: </br> 1.0 | [Changelog](https://github.com/FionaMacNeill/portfolio/wiki/Changelog) | [Roadmap](https://github.com/FionaMacNeill/portfolio/wiki/Roadmap)
 *Actively making this site accessible though design, content, and code.*
-{style="font-size: 16px"}
+{style="font-size: 16px"}-->
