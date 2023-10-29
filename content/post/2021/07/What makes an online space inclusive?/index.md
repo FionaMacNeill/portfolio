@@ -8,7 +8,6 @@ tags:
   - "accessibility"
   - "conference"
   - "elearning"
-  - "research"
   - "telepresence"
   - "viewx"
   - "virtual-space"

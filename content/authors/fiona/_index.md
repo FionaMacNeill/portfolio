@@ -42,10 +42,7 @@ social:
   icon_pack: fab
   name: '@fmacneill@toot.community'
   link: 'https://toot.community/@fmacneill'
-- icon: twitter
-  icon_pack: fab
-  description: Twitter
-  link: https://twitter.com/fmacneill
+  
 #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   #icon_pack: fas
   #description: Google Scholar
